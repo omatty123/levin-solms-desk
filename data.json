@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-10-01T01:48:44Z",
+ "last_checked": "2026-10-01T03:49:41Z",
  "items": [
   {
    "who": "levin",
@@ -65,6 +65,26 @@
   },
   {
    "who": "levin",
+   "date": "2026-09-17",
+   "type": "Podcast",
+   "len": "38 min",
+   "title": "Ingressing Minds and the Latent Space of Patterns: Your Code Is an Intelligence Antenna",
+   "src": "Neural intel Pod · AI-narrated analysis",
+   "blurb": "AI-narrated discussion of Levin’s Ingressing Minds framework, bioelectric pattern memory, xenobots and polycomputing. It explores speculative implications for artificial intelligence.",
+   "flag": "About Levin's ideas; Levin does not appear",
+   "url": "https://creators.spotify.com/pod/profile/neuralintelpod/episodes/Ingressing-Minds-and-the-Latent-Space-of-Patterns-Your-Code-Is-an-Intelligence-Antenna-e3p0hon"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-15",
+   "type": "Article",
+   "title": "Where New Forms Come From",
+   "src": "Woolf Software · Independent commentary",
+   "blurb": "An extended analysis of Ingressing Minds, its experimental foundations and philosophical objections, with connections to de-extinction and computational biology.",
+   "url": "https://www.woolfsoftware.bio/blog/where-new-forms-come-from/"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-13",
    "type": "Podcast",
    "len": "about 59 min",
@@ -94,6 +114,15 @@
   },
   {
    "who": "levin",
+   "date": "2026-09-09",
+   "type": "Article",
+   "title": "Do we create minds, or give them bodies? Michael Levin’s proposal",
+   "src": "Alien News · Avi Moas and Orion · AI-assisted article",
+   "blurb": "An AI-assisted explainer of Levin’s proposed space of patterns, distinguishing the speculative framework from biological experiments and considering implications for artificial intelligence.",
+   "url": "https://aliennews.co.il/en/articles/michael-levin-ingressing-minds-ai"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-08",
    "type": "Article",
    "title": "Slime moulds and the debate over intelligence",
@@ -110,6 +139,36 @@
    "src": "Thoughtforms Life · Diego Bohórquez & Mijail D. Serruya",
    "blurb": "Gut–brain biology, neural interfaces and communication from molecules to behavior.",
    "url": "https://thoughtforms-life.aipodcast.ing/conversation-1-with-diego-bohorquez-and-mijail-d-serruya-how-information-moves-levels-in-bodies/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-03",
+   "type": "Preprint",
+   "title": "Large-Language Models as a Cognitive Virus",
+   "src": "arXiv · Solé, Levin and coauthors",
+   "blurb": "A theoretical population model explores possible tipping points in language-model dependence and cognitive autonomy, including conditions intended to preserve independent cognition.",
+   "flag": "Not peer reviewed",
+   "url": "https://arxiv.org/abs/2609.03344"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-03",
+   "type": "Preprint",
+   "title": "Membrane voltage and connexin expression work together to enhance tumor growth and metastasis in cancer",
+   "src": "bioRxiv · Grodstein, Mathews and Levin",
+   "blurb": "A computational model examines how membrane voltage and connexin expression jointly regulate communication between tumor cells and healthy neighbors during growth and invasion.",
+   "flag": "Not peer reviewed",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748840v1"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-03",
+   "type": "Preprint",
+   "title": "Living multicellular systems induce decodable spatial patterns in bacterial collectives",
+   "src": "bioRxiv · Sergeeva, Levin and coauthors",
+   "blurb": "Bacterial collectives form spatial patterns around frog embryos and xenobots. Machine learning identifies signatures distinguishing the nearby living targets, suggesting distributed environmental sensing.",
+   "flag": "Not peer reviewed",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748853v1"
   },
   {
    "who": "solms",
@@ -154,6 +213,15 @@
   },
   {
    "who": "solms",
+   "date": "2026-09-22",
+   "type": "Article",
+   "title": "Neuropsychoanalysis: Mark Solms and the Science of the Freudian Mind",
+   "src": "Chicago Psychoanalytic Institute · Staff Writer · Educational article",
+   "blurb": "An institute overview of Solms’s neuropsychoanalysis, covering dreaming and REM sleep, affective consciousness, drive theory and possible clinical implications.",
+   "url": "https://chicagoanalysis.org/blog/psychoanalysis/neuropsychoanalysis/"
+  },
+  {
+   "who": "solms",
    "date": "2026-09-20",
    "type": "Podcast",
    "len": "78 min",
@@ -184,6 +252,15 @@
   },
   {
    "who": "solms",
+   "date": "2026-09-14",
+   "type": "Article",
+   "title": "The Hidden Spring. Mark Solms.",
+   "src": "John Sloan’s Reviews · Book review",
+   "blurb": "A critical review of The Hidden Spring questions Solms’s physicalist assumptions and proposed route to artificial consciousness while discussing affect and Friston’s framework.",
+   "url": "https://johnsloanreviews.com/2026/09/14/the-hidden-spring-mark-solms/"
+  },
+  {
+   "who": "solms",
    "date": "2026-09-10",
    "type": "Article",
    "title": "Freud on the Brain",
@@ -200,6 +277,15 @@
    "src": "Blue Dot · North State Public Radio",
    "blurb": "Dave Schlom interviews Solms about Freud, dreams and The Only Cure.",
    "url": "https://www.mynspr.org/show/blue-dot/2026-09-04/blue-dot-a-new-look-at-freud-and-neuroscience-with-dr-mark-solms"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-03",
+   "type": "Article",
+   "title": "Neuropsychoanalyse — Vertiefungsbeitrag Teil 2: Mark Solms’ Revision",
+   "src": "Wolfgang Albrecht · German-language professional commentary",
+   "blurb": "A German-language explainer of Solms’s revisions to psychoanalysis, focusing on conscious affect, unconscious cognition, drive theory, predictive processing and free energy.",
+   "url": "https://www.w-a-praxis.de/neuropsychoanalyse-vertiefungsbeitrag-teil-2-mark-solms-revision/"
   }
  ]
 }
