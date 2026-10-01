@@ -1,0 +1,184 @@
+{
+ "since": "2026-09-01",
+ "last_checked": "2026-10-01T01:13:00Z",
+ "items": [
+  {
+   "who": "levin",
+   "date": "2026-09-28",
+   "type": "Article",
+   "title": "Import AI 474: Platonic mindspace",
+   "src": "Jack Clark · Import AI",
+   "blurb": "A close look at Ingressing Minds: patterns embodied in biological and engineered systems, and the experiments still needed to test the idea.",
+   "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-28",
+   "type": "Podcast",
+   "len": "85 min",
+   "title": "No. 1 Biopsychist: Michael Levin’s Platonic Minds & Cognition All The Way Down",
+   "src": "Giants Shoulder · Episode 159 · with John Vervaeke",
+   "blurb": "Guest John Vervaeke discusses Levin’s cognitive light cone, Platonic minds and cognition across living systems.",
+   "flag": "About Levin’s ideas; Levin does not appear",
+   "url": "https://podcasts.apple.com/nz/podcast/159-no-1-biopsychist-michael-levins-platonic-minds/id1752486249?i=1000792051293"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-24",
+   "type": "Preprint",
+   "title": "On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation",
+   "src": "arXiv · Levin and coauthors",
+   "blurb": "Neural cellular automata and low-rank adaptations as reusable controls for changing morphology.",
+   "flag": "Not peer reviewed",
+   "url": "https://arxiv.org/abs/2609.29755"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-24",
+   "type": "Podcast",
+   "len": "105 min",
+   "title": "Meet The Evolutionary Theorist Redefining Intelligence With Michael Levin",
+   "src": "Giants Shoulder · Episode 158 · with Richard Watson",
+   "blurb": "Guest Richard Watson discusses his Natural Induction work with Levin, learning without neurons and cognitive approaches to biology and medicine.",
+   "flag": "About Levin’s ideas; Levin does not appear",
+   "url": "https://podcasts.apple.com/nz/podcast/158-meet-the-evolutionary-theorist-redefining/id1752486249?i=1000791491919"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-21",
+   "type": "Podcast",
+   "len": "56 min",
+   "title": "Bioelectricity, Aging, and the Future of Medicine",
+   "src": "The Arjun Khemani Podcast",
+   "blurb": "Regeneration, bioelectric memory and hypotheses about aging, with a view toward possible future medicine.",
+   "url": "https://www.arjunkhemani.com/p/michael-levin-bioelectricity-aging"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-13",
+   "type": "Podcast",
+   "len": "about 59 min",
+   "title": "The evolution of language and brain development",
+   "src": "Thoughtforms Life · with Andrey Vyshedskiy",
+   "blurb": "Language evolution, sensitive periods in brain development and future intelligence. A research discussion.",
+   "url": "https://thoughtforms-life.aipodcast.ing/a-conversation-with-andrey-vyshedskiy-about-the-evolution-of-language-and-brain-development/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-10",
+   "type": "Podcast",
+   "len": "58 min",
+   "title": "Bioelectricity, Collective Intelligence & Regeneration",
+   "src": "Wandering Thoughts",
+   "blurb": "How cells coordinate bodies, with discussions of regeneration, xenobots, anthrobots and aging.",
+   "url": "https://podcasts.apple.com/au/podcast/bioelectricity-collective-intelligence-regeneration/id1866596406?i=1000788956994"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-09",
+   "type": "Peer-reviewed paper",
+   "title": "Ingressing Minds",
+   "src": "Philosophies · Published version · Theoretical journal paper",
+   "blurb": "A theoretical proposal connecting synthetic morphology and diverse intelligence with a structured space of patterns. A speculative framework rather than an established finding.",
+   "url": "https://www.mdpi.com/2409-9287/11/5/161"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-08",
+   "type": "Article",
+   "title": "Slime moulds and the debate over intelligence",
+   "src": "Samanth Subramanian · The Guardian",
+   "blurb": "Includes Levin’s perspective on cognition beyond brains.",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-03",
+   "type": "Podcast",
+   "len": "about 59 min",
+   "title": "How information moves levels in bodies",
+   "src": "Thoughtforms Life · Diego Bohórquez & Mijail D. Serruya",
+   "blurb": "Gut–brain biology, neural interfaces and communication from molecules to behavior.",
+   "url": "https://thoughtforms-life.aipodcast.ing/conversation-1-with-diego-bohorquez-and-mijail-d-serruya-how-information-moves-levels-in-bodies/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-30",
+   "type": "Podcast",
+   "len": "74 min",
+   "title": "A Great Loss to the Universe (Part Three)",
+   "src": "Suspicious Minds: AI and the Apocalypse",
+   "blurb": "Solms joins David Benatar and other guests to discuss the ethics of creating artificial consciousness, including possible suffering and his reasons for pursuing the work.",
+   "url": "https://art19.com/shows/suspicious-minds/episodes/8af77682-a53d-4a24-a5b6-28d3d765e07d"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-29",
+   "type": "Podcast",
+   "len": "31 min",
+   "title": "What Freud Got Right About the Mind",
+   "src": "The Next Big Idea Daily",
+   "blurb": "Solms on Freud, unconscious memory, emotional needs and talking therapy. The episode also features Paul Conti.",
+   "url": "https://podcasts.apple.com/in/podcast/what-freud-got-right-about-the-mind/id1666681752?i=1000792154913"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-23",
+   "type": "Podcast",
+   "len": "71 min",
+   "title": "Engineering Consciousness (Part Two)",
+   "src": "Suspicious Minds",
+   "blurb": "Solms discusses artificial-agent research and how to test a feeling-centered account of consciousness.",
+   "url": "https://podcasts.apple.com/ca/podcast/engineering-consciousness-part-two/id1844631307?i=1000791259514"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-20",
+   "type": "Podcast",
+   "len": "78 min",
+   "title": "A Cure by Love and Science with Mark Solms",
+   "src": "IPA Off the Couch · Episode 211",
+   "blurb": "Clinical stories connecting neuroscience, psychoanalysis and therapeutic change.",
+   "url": "https://ipaoffthecouch.org/2026/09/20/episode-211-a-cure-by-love-and-science-with-mark-solms-phd-cape-town/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-17",
+   "type": "Article",
+   "title": "Real artificial consciousness is, of course, incompatible with biological naturalism",
+   "src": "Behavioral and Brain Sciences · Invited journal commentary",
+   "blurb": "A scholarly commentary on the tension between biological naturalism and engineering artificial consciousness.",
+   "flag": "External peer review not verified",
+   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/real-artificial-consciousness-is-of-course-incompatible-with-biological-naturalism/B3A6CE788EFD4E69B99D770C41052101"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-16",
+   "type": "Podcast",
+   "len": "52 min",
+   "title": "The Problem of Other Minds",
+   "src": "Suspicious Minds · S2E15",
+   "blurb": "Solms lays out his feeling-centered account of consciousness and its connection to dreaming.",
+   "url": "https://podcasts.apple.com/ca/podcast/the-problem-of-other-minds/id1844631307?i=1000790005691"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-10",
+   "type": "Article",
+   "title": "Freud on the Brain",
+   "src": "TAP · Interview by Lucas McGranahan · Written interview",
+   "blurb": "A written conversation about unconscious memory, psychoanalysis, psychopharmacology and neuroscience. This is the original September 10 publication.",
+   "url": "https://tapmagazine.org/all-articles/freud-on-the-brain"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-04",
+   "type": "Podcast",
+   "len": "52 min",
+   "title": "A new look at Freud and neuroscience",
+   "src": "Blue Dot · North State Public Radio",
+   "blurb": "Dave Schlom interviews Solms about Freud, dreams and The Only Cure.",
+   "url": "https://www.mynspr.org/show/blue-dot/2026-09-04/blue-dot-a-new-look-at-freud-and-neuroscience-with-dr-mark-solms"
+  }
+ ]
+}
