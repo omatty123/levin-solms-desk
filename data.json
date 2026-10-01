@@ -1,7 +1,18 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-10-01T03:49:41Z",
+ "last_checked": "2026-10-01T04:25:46Z",
  "items": [
+  {
+   "who": "levin",
+   "date": "2026-09-29",
+   "type": "Podcast",
+   "len": "84 min",
+   "title": "Meet The Physicist Proving The Universe Builds Itself Out Of Information",
+   "src": "Giants Shoulder · with Gordana Dodig-Crnkovic",
+   "blurb": "Gordana Dodig-Crnkovic compares her account of cognition and consciousness with Levin’s ideas, discussing cellular awareness, xenobots and whether gene networks think.",
+   "flag": "About Levin's ideas; Levin does not appear",
+   "url": "https://www.thegiantsshoulder.com/episodes/meet-the-physicist-proving-the-universe-builds-itself-out-of-information"
+  },
   {
    "who": "levin",
    "date": "2026-09-28",
