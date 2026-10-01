@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-10-01T01:13:00Z",
+ "last_checked": "2026-10-01T01:48:44Z",
  "items": [
   {
    "who": "levin",
@@ -19,7 +19,7 @@
    "title": "No. 1 Biopsychist: Michael Levin’s Platonic Minds & Cognition All The Way Down",
    "src": "Giants Shoulder · Episode 159 · with John Vervaeke",
    "blurb": "Guest John Vervaeke discusses Levin’s cognitive light cone, Platonic minds and cognition across living systems.",
-   "flag": "About Levin’s ideas; Levin does not appear",
+   "flag": "About Levin's ideas; Levin does not appear",
    "url": "https://podcasts.apple.com/nz/podcast/159-no-1-biopsychist-michael-levins-platonic-minds/id1752486249?i=1000792051293"
   },
   {
@@ -40,7 +40,7 @@
    "title": "Meet The Evolutionary Theorist Redefining Intelligence With Michael Levin",
    "src": "Giants Shoulder · Episode 158 · with Richard Watson",
    "blurb": "Guest Richard Watson discusses his Natural Induction work with Levin, learning without neurons and cognitive approaches to biology and medicine.",
-   "flag": "About Levin’s ideas; Levin does not appear",
+   "flag": "About Levin's ideas; Levin does not appear",
    "url": "https://podcasts.apple.com/nz/podcast/158-meet-the-evolutionary-theorist-redefining/id1752486249?i=1000791491919"
   },
   {
@@ -52,6 +52,16 @@
    "src": "The Arjun Khemani Podcast",
    "blurb": "Regeneration, bioelectric memory and hypotheses about aging, with a view toward possible future medicine.",
    "url": "https://www.arjunkhemani.com/p/michael-levin-bioelectricity-aging"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-17",
+   "type": "Article",
+   "title": "Diverse intelligence: An essential field for questions of AI and consciousness",
+   "src": "Behavioral and Brain Sciences · Invited journal commentary",
+   "blurb": "Levin argues that diverse intelligence research complicates attempts to limit consciousness to particular biological or artificial substrates, responding to Anil Seth.",
+   "flag": "External peer review status is unclear",
+   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/diverse-intelligence-an-essential-field-for-questions-of-ai-and-consciousness/5D335CB2EE96EE99AD3E49413FAB7B40"
   },
   {
    "who": "levin",
@@ -123,6 +133,17 @@
   },
   {
    "who": "solms",
+   "date": "2026-09-28",
+   "type": "Podcast",
+   "len": "123 min",
+   "title": "What Humans, Animals & Plants Tell Us About Consciousness | Michael Pollan",
+   "src": "Huberman Lab · Michael Pollan with Andrew Huberman",
+   "blurb": "Michael Pollan and Andrew Huberman discuss Solms’s brainstem-centered account of consciousness and the role of homeostatic feelings.",
+   "flag": "About Solms's ideas; Solms does not appear",
+   "url": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan"
+  },
+  {
+   "who": "solms",
    "date": "2026-09-23",
    "type": "Podcast",
    "len": "71 min",
@@ -148,7 +169,7 @@
    "title": "Real artificial consciousness is, of course, incompatible with biological naturalism",
    "src": "Behavioral and Brain Sciences · Invited journal commentary",
    "blurb": "A scholarly commentary on the tension between biological naturalism and engineering artificial consciousness.",
-   "flag": "External peer review not verified",
+   "flag": "External peer review status is unclear",
    "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/real-artificial-consciousness-is-of-course-incompatible-with-biological-naturalism/B3A6CE788EFD4E69B99D770C41052101"
   },
   {
