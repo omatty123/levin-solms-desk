@@ -1,7 +1,16 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-09T21:24:52Z",
+ "last_checked": "2026-11-09T22:23:48Z",
  "items": [
+  {
+   "who": "levin",
+   "date": "2026-11-07",
+   "type": "Article",
+   "title": "Santosh Manicka and Michael Levin Introduce Topoiesis in Collective Morphogenesis",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "Independent commentary on Manicka and Levin’s topoiesis preprint, connecting collective embryo development and group geometry to broader questions about biological boundaries.",
+   "url": "https://theconsciousness.ai/posts/santosh-manicka-michael-levin-topoiesis-collective-morphogenesis-2026/"
+  },
   {
    "who": "levin",
    "date": "2026-11-05",
@@ -51,6 +60,15 @@
   },
   {
    "who": "levin",
+   "date": "2026-10-29",
+   "type": "Article",
+   "title": "Preprint: regrowing a frog's leg shifts gene activity in its brain",
+   "src": "longevitydocs™ News · Research explainer",
+   "blurb": "An explainer of Levin and colleagues’ frog regeneration preprint describes changes in brain gene activity and highlights the small sample and limits on interpreting brain–body signaling.",
+   "url": "https://news.longevitydocs.org/research/xenopus-limb-regeneration-biodome-brain-transcriptome-preprint-2026"
+  },
+  {
+   "who": "levin",
    "date": "2026-10-28",
    "type": "Podcast",
    "len": "62 min",
@@ -61,12 +79,41 @@
   },
   {
    "who": "levin",
+   "date": "2026-10-25",
+   "type": "Article",
+   "title": "Active Bioelectric Stigmergy and Scale-Free Niche Construction in Pio-Lopez and Levin's 2026 Preprint",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "Independent commentary on how cells and other agents modify their surroundings, considering environmental memory, bioelectric stigmergy and the limits of extending these ideas to consciousness.",
+   "url": "https://theconsciousness.ai/posts/pio-lopez-levin-scale-free-niche-construction-bioelectric-stigmergy-2026/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-24",
+   "type": "Preprint",
+   "title": "Limb-localized induction of regeneration reshapes brain and amputation-site transcriptional states in adult Xenopus laevis",
+   "src": "bioRxiv · Russell, Miller, Kaplan, Levin and Murugan",
+   "blurb": "After a local regenerative treatment, adult frogs show changes in gene activity in both the amputated limb and brain, identifying possible pathways for further brain–body communication research.",
+   "flag": "Not peer reviewed",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761414v1"
+  },
+  {
+   "who": "levin",
    "date": "2026-10-23",
    "type": "Peer-reviewed paper",
    "title": "Reservoir Computing for Pattern Recognition and Time‐Series Prediction Based on Nanofluidic Negative Differential Resistance",
    "src": "International Journal of Intelligent Systems · Portillo, Levin and coauthors",
    "blurb": "Researchers model computing systems using nanopore electrical behavior for image classification and biologically inspired ion channels for time-series prediction.",
    "url": "https://onlinelibrary.wiley.com/doi/10.1155/int/4602147"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-20",
+   "type": "Podcast",
+   "len": "88 min",
+   "title": "Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space",
+   "src": "632nm · Episode 64",
+   "blurb": "Levin discusses unconventional intelligence, learning in gene networks, bioelectricity and his speculative Platonic-space account of where novel biological competencies originate.",
+   "url": "https://632nm.com/episodes/where-does-intelligence-live-michael-levin-on-evolution-ai-and-platonic-space"
   },
   {
    "who": "levin",
@@ -232,6 +279,16 @@
   },
   {
    "who": "levin",
+   "date": "2026-09-18",
+   "type": "Preprint",
+   "title": "A Closed-Loop Robot Scientist for Autonomous Biological Discovery",
+   "src": "bioRxiv · Bielawski, Levin and coauthors",
+   "blurb": "MOMbot combines automated physical interventions, imaging and active learning to investigate embryos, motile organoids and cells, including an electrical stimulus–response relationship.",
+   "flag": "Not peer reviewed",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.11.751076v1"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-17",
    "type": "Article",
    "title": "Diverse intelligence: An essential field for questions of AI and consciousness",
@@ -365,6 +422,16 @@
    "src": "Filosofie Magazine · Annette van der Elst · Dutch-language interview",
    "blurb": "In this Dutch interview, Solms argues that subjective experience must remain central to understanding the mind, rather than reducing psychology to observable brain processes.",
    "url": "https://www.filosofie.nl/neuropsycholoog-mark-solms-we-begrijpen-de-menselijke-geest-verkeerd/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-10-19",
+   "type": "Article",
+   "title": "The Only Cure: Freud and the neuroscience of mental healing",
+   "src": "Therapy Today · Lizzie Stone · Book review · November issue",
+   "blurb": "A trainee psychotherapist reviews Solms’s defence of psychoanalysis, praising its clinical stories while questioning some evidence claims and noting challenging neuroscience.",
+   "flag": "Date is the issue’s publication date; BACP account may be required",
+   "url": "https://www.bacp.co.uk/media/26950/bacp-therapy-today-november-2026.pdf"
   },
   {
    "who": "solms",
