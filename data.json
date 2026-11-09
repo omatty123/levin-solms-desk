@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-09T22:23:48Z",
+ "last_checked": "2026-11-09T23:26:32Z",
  "items": [
   {
    "who": "levin",
@@ -19,6 +19,16 @@
    "src": "Investor's Business Daily",
    "blurb": "A profile of Levin’s interdisciplinary research, leadership and ambitions for regenerative medicine, with cautions about the time needed for clinical breakthroughs.",
    "url": "https://www.investors.com/news/management/leaders-and-success/michael-levin-blends-biology-with-physics-to-conquer-human-disease/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-05",
+   "type": "Article",
+   "title": "Como corvos, plantas e IA desafiam o que sabemos sobre consciência",
+   "src": "UOL · Murilo Garavello · Portuguese-language commentary",
+   "blurb": "A discussion of consciousness examines Levin’s planarian memory and bioelectric experiments, while emphasizing that information processing does not by itself demonstrate subjective experience.",
+   "flag": "Subscriber-only article",
+   "url": "https://www.uol.com.br/vida/colunas/missao-saber/2026/11/05/como-corvos-plantas-e-ia-desafiam-o-que-sabemos-sobre-consciencia.htm"
   },
   {
    "who": "levin",
@@ -568,6 +578,26 @@
    "src": "Wolfgang Albrecht · German-language professional commentary",
    "blurb": "A German-language explainer of Solms’s revisions to psychoanalysis, focusing on conscious affect, unconscious cognition, drive theory, predictive processing and free energy.",
    "url": "https://www.w-a-praxis.de/neuropsychoanalyse-vertiefungsbeitrag-teil-2-mark-solms-revision/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-03",
+   "type": "Article",
+   "title": "Birth of a Corpse? Part II: The Exchange, Head-On",
+   "src": "Cecil (CJ) John · Medium · Independent commentary",
+   "blurb": "A philosophical critique examines Solms’s view that affective value and subjective feeling are two perspectives on one phenomenon, asking what evidence would justify that identity.",
+   "flag": "Member-only article",
+   "url": "https://cezjah.medium.com/birth-of-a-corpse-part-ii-the-exchange-head-on-046bd575c84b"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-02",
+   "type": "Article",
+   "title": "Birth of a Corpse? Is AI now conscious?",
+   "src": "Cecil (CJ) John · New Intellectual / Medium · Independent commentary",
+   "blurb": "An independent critique of Solms’s artificial-agent research argues that functional regulation and subjective feeling should be distinguished, leaving the consciousness claim open to further evidence.",
+   "flag": "Member-only article",
+   "url": "https://medium.com/newintellectual/birth-of-a-corpse-is-ai-now-conscious-8b239eef7d6b"
   }
  ]
 }
