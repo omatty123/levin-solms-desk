@@ -1,7 +1,133 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-10-01T04:25:46Z",
+ "last_checked": "2026-11-09T21:24:52Z",
  "items": [
+  {
+   "who": "levin",
+   "date": "2026-11-05",
+   "type": "Article",
+   "title": "Michael Levin Blends Biology With Physics To Conquer Human Disease",
+   "src": "Investor's Business Daily",
+   "blurb": "A profile of Levin’s interdisciplinary research, leadership and ambitions for regenerative medicine, with cautions about the time needed for clinical breakthroughs.",
+   "url": "https://www.investors.com/news/management/leaders-and-success/michael-levin-blends-biology-with-physics-to-conquer-human-disease/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-04",
+   "type": "Article",
+   "title": "Michael Levin: Memory and intelligence do not require a brain",
+   "src": "Institute of Art and Ideas · Interview by Alasdair Craig",
+   "blurb": "Levin discusses biobots, cellular memory and learning, arguing that biology must look beyond genes and brains to explain purposeful behavior.",
+   "url": "https://iai.tv/articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-04",
+   "type": "Preprint",
+   "title": "A topoietic model of collective morphogenesis and compartmentalization",
+   "src": "bioRxiv · Manicka and Levin",
+   "blurb": "A model proposes that signal diffusion and group geometry explain how frog embryos collectively resist developmental stress.",
+   "flag": "Not peer reviewed",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763900v1"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-03",
+   "type": "Article",
+   "title": "Interactive MindMap is online",
+   "src": "Michael Levin · Forms of life, forms of mind",
+   "blurb": "Levin introduces an interactive map connecting his work on minds, life and agency, with a glossary and source papers.",
+   "url": "https://thoughtforms.life/interactive-mindmap-is-online/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-31",
+   "type": "Podcast",
+   "len": "about 35 min",
+   "title": "Thoughts as Thinkers: biology & computer science of inspiration within & without us",
+   "src": "Thoughtforms Life",
+   "blurb": "Levin explores patterns as behavioral policies and asks where unexpected biological competencies and human inspiration originate.",
+   "url": "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-biology-computer-science-of-inspiration-within-without-us-by-michael-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-28",
+   "type": "Podcast",
+   "len": "62 min",
+   "title": "Where Does Genius Come From?",
+   "src": "Human Potential Lab · Scott Barry Kaufman · Episode 2",
+   "blurb": "Levin discusses cellular intelligence, bioelectricity and his speculative Platonic-space account of genius and inspiration with Scott Barry Kaufman.",
+   "url": "https://humanpotential.co/episodes/where-does-genius-come-from/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-23",
+   "type": "Peer-reviewed paper",
+   "title": "Reservoir Computing for Pattern Recognition and Time‐Series Prediction Based on Nanofluidic Negative Differential Resistance",
+   "src": "International Journal of Intelligent Systems · Portillo, Levin and coauthors",
+   "blurb": "Researchers model computing systems using nanopore electrical behavior for image classification and biologically inspired ion channels for time-series prediction.",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1155/int/4602147"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-17",
+   "type": "Podcast",
+   "len": "about 39 min",
+   "title": "\"New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)",
+   "src": "Thoughtforms Life",
+   "blurb": "Levin discusses experimental systems for studying unfamiliar minds, his Platonic Space proposal and cautious perspectives on consciousness.",
+   "url": "https://thoughtforms-life.aipodcast.ing/new-bodies-unconventional-minds-a-continuum-of-cognition-consciousness-by-michael-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-16",
+   "type": "Preprint",
+   "title": "Goal directed closed-loop training of network bursts in cortical cultures produces improved performance and error correction over days",
+   "src": "bioRxiv · Levin and coauthors",
+   "blurb": "Cultured rat neurons learn to initiate activity on a target side and recover from errors more reliably across days of training.",
+   "flag": "Not peer reviewed",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759184v1"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-16",
+   "type": "Podcast",
+   "len": "about 35 min",
+   "title": "\"Thoughts as Thinkers: the biology & computer science of inspiration\"",
+   "src": "Thoughtforms Life",
+   "blurb": "A conference talk explores inspiration, xenobots and the origins of competencies in newly created living systems.",
+   "url": "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-the-biology-computer-science-of-inspiration-by-michael-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-11",
+   "type": "Podcast",
+   "len": "about 64 min",
+   "title": "\"Mind-Body Interface: an experimental and Clinical Perspective\" by Michael Levin and Karina Kofman",
+   "src": "Thoughtforms Life",
+   "blurb": "Levin and Karina Kofman discuss experimental biology, unusual clinical cases and the relationship between minds and their physical embodiments.",
+   "url": "https://thoughtforms-life.aipodcast.ing/mind-body-interface-an-experimental-and-clinical-perspective-by-michael-levin-and-karina-kofman/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-09",
+   "type": "Podcast",
+   "len": "about 60 min",
+   "title": "\"Neuroscience Beyond Neurons: communicating with unconventional minds\"",
+   "src": "Thoughtforms Life",
+   "blurb": "Levin uses morphogenesis and non-neural cells to explore collective intelligence and behavioral experiments with unconventional cognitive agents.",
+   "url": "https://thoughtforms-life.aipodcast.ing/neuroscience-beyond-neurons-communicating-with-unconventional-minds-by-michael-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-30",
+   "type": "Preprint",
+   "title": "Toward Controlling Biology with Language:Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots",
+   "src": "arXiv · Le, Blackiston, Levin and Bongard",
+   "blurb": "An offline learning system maps language instructions to recorded xenobot interventions; whether predicted interventions work in new live experiments remains untested.",
+   "flag": "Not peer reviewed",
+   "url": "https://arxiv.org/abs/2610.02247"
+  },
   {
    "who": "levin",
    "date": "2026-09-29",
@@ -35,6 +161,16 @@
   },
   {
    "who": "levin",
+   "date": "2026-09-25",
+   "type": "Preprint",
+   "title": "Computational Framework for Identifying Ion Channel Mutation-Compensating Interventions",
+   "src": "bioRxiv · Hazan and Levin",
+   "blurb": "Computational models identify ways to compensate for faulty ion channels by adjusting other channels rather than directly modifying the mutated one.",
+   "flag": "Not peer reviewed",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.09.20.753002v1"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-24",
    "type": "Preprint",
    "title": "On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation",
@@ -56,6 +192,26 @@
   },
   {
    "who": "levin",
+   "date": "2026-09-24",
+   "type": "Podcast",
+   "len": "about 63 min",
+   "title": "Discussion with Marsha Hewitt (Platonic Space and related ideas)",
+   "src": "Thoughtforms Life",
+   "blurb": "Levin and Marsha Hewitt discuss Platonic Space, embodied minds and connections between experimental biology, philosophy and the psychology of religion.",
+   "url": "https://thoughtforms-life.aipodcast.ing/discussion-with-marsha-hewitt-platonic-space-and-related-ideas/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-22",
+   "type": "Podcast",
+   "len": "about 21 min",
+   "title": "\"Life, Machines, and a Foundation for Synthbiosis\"",
+   "src": "Thoughtforms Life",
+   "blurb": "A Santa Fe Institute talk explores embodied minds, cellular goals and mutually beneficial relationships among biological, artificial and hybrid beings.",
+   "url": "https://thoughtforms-life.aipodcast.ing/life-machines-and-a-foundation-for-synthbiosis-by-michael-levin/"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-21",
    "type": "Podcast",
    "len": "56 min",
@@ -63,6 +219,16 @@
    "src": "The Arjun Khemani Podcast",
    "blurb": "Regeneration, bioelectric memory and hypotheses about aging, with a view toward possible future medicine.",
    "url": "https://www.arjunkhemani.com/p/michael-levin-bioelectricity-aging"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-21",
+   "type": "Podcast",
+   "len": "53 min",
+   "title": "Biology, AI, and Diverse Intelligence",
+   "src": "Thoughtforms Life",
+   "blurb": "Levin introduces diverse intelligence and explains what cellular cognition, bioelectricity and novel organisms can contribute to discussions about artificial intelligence.",
+   "url": "https://thoughtforms-life.aipodcast.ing/biology-ai-and-diverse-intelligence-by-michael-levin/"
   },
   {
    "who": "levin",
@@ -180,6 +346,44 @@
    "blurb": "Bacterial collectives form spatial patterns around frog embryos and xenobots. Machine learning identifies signatures distinguishing the nearby living targets, suggesting distributed environmental sensing.",
    "flag": "Not peer reviewed",
    "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748853v1"
+  },
+  {
+   "who": "solms",
+   "date": "2026-10-28",
+   "type": "Podcast",
+   "len": "104 min",
+   "title": "Mark Solms: Consciousness Isn't in the Cortex",
+   "src": "Theories of Everything · Curt Jaimungal",
+   "blurb": "Solms explains why he locates consciousness in brainstem feeling, connecting dreams, neuropsychoanalysis, artificial agents, and the hard problem.",
+   "url": "https://curtjaimungal.substack.com/p/consciousness-isnt-in-the-cortex"
+  },
+  {
+   "who": "solms",
+   "date": "2026-10-19",
+   "type": "Article",
+   "title": "Neuropsycholoog Mark Solms: ‘We begrijpen de menselijke geest verkeerd’",
+   "src": "Filosofie Magazine · Annette van der Elst · Dutch-language interview",
+   "blurb": "In this Dutch interview, Solms argues that subjective experience must remain central to understanding the mind, rather than reducing psychology to observable brain processes.",
+   "url": "https://www.filosofie.nl/neuropsycholoog-mark-solms-we-begrijpen-de-menselijke-geest-verkeerd/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-10-13",
+   "type": "Peer-reviewed paper",
+   "title": "Two Routes to Interoceptive Prioritisation: Dissociating Likelihood Precision and Preference Reweighting in Active Inference",
+   "src": "IWAI 2026 · Accepted manuscript on arXiv · Proceedings forthcoming",
+   "blurb": "Solms and colleagues compare two ways artificial agents prioritize bodily needs, finding different effects on survival, perception, and learning an internal body model.",
+   "url": "https://arxiv.org/abs/2610.18617"
+  },
+  {
+   "who": "solms",
+   "date": "2026-10-02",
+   "type": "Podcast",
+   "len": "56 min",
+   "title": "Freud to Luria to modern neuroscience: Mark Solms on the (successful) project for a scientific psychology",
+   "src": "PhilosophyPodcasts.Org",
+   "blurb": "Solms discusses Freud’s scientific psychology and its connections to Luria and contemporary neuroscience, drawing on The Only Cure.",
+   "url": "https://podcasts.apple.com/ie/podcast/freud-to-luria-to-modern-neuroscience-mark-solms-on/id1633703229?i=1000792908016"
   },
   {
    "who": "solms",
