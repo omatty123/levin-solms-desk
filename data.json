@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T09:47:12Z",
+ "last_checked": "2026-11-10T11:00:27Z",
  "items": [
   {
    "who": "levin",
@@ -535,6 +535,16 @@
   },
   {
    "who": "solms",
+   "date": "2026-11-09",
+   "type": "Article",
+   "title": "The Appetite for Uncertainty",
+   "src": "Giulia’s Substack · GYBP · Personal essay",
+   "blurb": "A personal essay applies Solms’s idea of felt uncertainty to dining, arguing that advance expectations can crowd out surprise and attentive engagement.",
+   "flag": "Personal application of Solms’s ideas; not scientific evidence",
+   "url": "https://giuliabp.substack.com/p/the-appetite-for-uncertainty"
+  },
+  {
+   "who": "solms",
    "date": "2026-11-08",
    "type": "Podcast",
    "len": "46 min 31 sec",
@@ -542,6 +552,16 @@
    "src": "The Circle Of Insight · Dr. Carlos",
    "blurb": "Solms explains his view that consciousness begins with feelings generated in the brainstem, linking emotion, survival and decision-making to neuroscience and psychoanalysis.",
    "url": "https://www.spreaker.com/episode/where-consciousness-begins-dr-mark-solms-on-emotion-and-the-feeling-brain--76239105"
+  },
+  {
+   "who": "solms",
+   "date": "2026-11-03",
+   "type": "Preprint",
+   "title": "Birth of a Corpse? Affective Consciousness, Perspectival Identity, and the Unbridged Gap in Artificial Feeling",
+   "src": "Zenodo · Cézjah (Cecil John), New Intellectual LLC · Working paper",
+   "blurb": "Critiques Solms’s artificial-consciousness model, arguing that functional affective regulation does not establish subjective feeling without defending the metaphysical identity between objective value and lived experience.",
+   "flag": "Working paper; peer review not indicated; develops the exchange discussed in the September Medium articles",
+   "url": "https://zenodo.org/records/23933067"
   },
   {
    "who": "solms",
