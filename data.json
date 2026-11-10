@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T20:51:36Z",
+ "last_checked": "2026-11-10T21:56:58Z",
  "items": [
   {
    "who": "levin",
@@ -307,6 +307,16 @@
   },
   {
    "who": "levin",
+   "date": "2026-10-03",
+   "type": "Article",
+   "title": "Religion With A Pipette: Is Michael Levin’s ‘Ingressing Minds’ Pseudoscience? A Scholarly Analysis",
+   "src": "Sweet Rationalism · Nathan Sweet · Independent criticism",
+   "blurb": "Sweet questions whether Levin’s Platonic interpretation makes testable predictions beyond existing biological explanations, separating experimental findings from broader metaphysical claims.",
+   "flag": "Independent commentary; computationally assisted; updated November 5, 2026; not peer reviewed",
+   "url": "https://sweetrationalism.com/articles/metaphysics/religion-with-a-pipette-is-michael-levins-ingressing-minds-pseudoscience-a-scholarly-analysis/"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-30",
    "type": "Preprint",
    "title": "Toward Controlling Biology with Language:Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots",
@@ -469,6 +479,16 @@
   },
   {
    "who": "levin",
+   "date": "2026-09-11",
+   "type": "Article",
+   "title": "Michael Levin is the most interesting person alive",
+   "src": "Front Stage Exit · Brady Dale · Independent commentary",
+   "blurb": "Dale explores Levin’s Ingressing Minds proposal and its possible implications for intelligence, arguing enthusiastically for the value of investigating unfamiliar forms of cognition.",
+   "flag": "Independent philosophical commentary; speculative interpretation, not a new scientific result",
+   "url": "https://www.frontstageexit.com/p/michael-levin-is-the-most-interesting"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-10",
    "type": "Podcast",
    "len": "58 min",
@@ -486,6 +506,16 @@
    "blurb": "An independent summary of Levin’s Ingressing Minds discusses Platonic patterns, bioelectric memory, synthetic organisms and ethical implications of unfamiliar minds.",
    "flag": "Independent commentary on a speculative framework; not evidence that the brain receives consciousness",
    "url": "https://imbamotionlabs.medium.com/your-brain-doesnt-produce-your-mind-it-just-tunes-into-it-eef25e185a1b"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-10",
+   "type": "Article",
+   "title": "Michael Levin made me believe in gods",
+   "src": "Unpublishable Papers · Eli Stark-Elster · Independent commentary",
+   "blurb": "Stark-Elster interprets Levin’s Ingressing Minds proposal, extending it into speculative claims about altered states and perceived entities that the cited biological research does not establish.",
+   "flag": "Independent philosophical speculation; claims about psychedelic entities are not established findings",
+   "url": "https://unpublishablepapers.substack.com/p/michael-levin-made-me-believe-in"
   },
   {
    "who": "levin",
