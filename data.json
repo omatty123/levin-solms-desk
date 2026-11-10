@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T06:41:34Z",
+ "last_checked": "2026-11-10T08:14:39Z",
  "items": [
   {
    "who": "levin",
@@ -532,6 +532,16 @@
    "blurb": "A multi-podcast digest contrasts simulated empathy with genuine feeling, drawing on Solms’s brainstem account of consciousness and its implications for artificial sentience.",
    "flag": "Editorial synthesis; discusses the already listed Theories of Everything episode",
    "url": "https://www.velocitymeter.com/sherry-turkle-says-ai-empathy-is-a-category-error/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-11-08",
+   "type": "Podcast",
+   "len": "46 min 31 sec",
+   "title": "Where Consciousness Begins: Dr. Mark Solms on Emotion and the Feeling Brain",
+   "src": "The Circle Of Insight · Dr. Carlos",
+   "blurb": "Solms explains his view that consciousness begins with feelings generated in the brainstem, linking emotion, survival and decision-making to neuroscience and psychoanalysis.",
+   "url": "https://www.spreaker.com/episode/where-consciousness-begins-dr-mark-solms-on-emotion-and-the-feeling-brain--76239105"
   },
   {
    "who": "solms",
