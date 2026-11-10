@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T12:44:27Z",
+ "last_checked": "2026-11-10T13:23:35Z",
  "items": [
   {
    "who": "levin",
@@ -244,6 +244,16 @@
    "blurb": "An annotated index examines evidence and criticism of Levin’s bioelectricity research, cognitive terminology and Platonic claims, separating experimental results from broader interpretations.",
    "flag": "Independent commentary; not peer reviewed",
    "url": "https://sweetrationalism.com/articles/biology/michael-levin-science-or-pseudoscience-criticism-index/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-04",
+   "type": "Article",
+   "title": "The Electrical Blueprint of the Body",
+   "src": "The Brutal Truth · Independent commentary",
+   "blurb": "An independent overview of Levin’s bioelectricity research discusses anatomical memory, gene activity and frog regeneration, distinguishing existing animal experiments from speculative implications for future medicine.",
+   "flag": "Independent commentary; not peer reviewed",
+   "url": "https://1hebrutaltruth1.substack.com/p/the-electrical-blueprint-of-the-body"
   },
   {
    "who": "levin",
