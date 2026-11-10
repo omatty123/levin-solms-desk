@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T08:18:41Z",
+ "last_checked": "2026-11-10T09:47:12Z",
  "items": [
   {
    "who": "levin",
@@ -571,6 +571,16 @@
    "blurb": "A trainee psychotherapist reviews Solms’s defence of psychoanalysis, praising its clinical stories while questioning some evidence claims and noting challenging neuroscience.",
    "flag": "Date is the issue’s publication date; BACP account may be required",
    "url": "https://www.bacp.co.uk/media/26950/bacp-therapy-today-november-2026.pdf"
+  },
+  {
+   "who": "solms",
+   "date": "2026-10-17",
+   "type": "Article",
+   "title": "Mark Solms and Ryan Smith Test Two Routes to Interoceptive Prioritisation",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "Independent commentary connects Solms and colleagues’ active-inference study of competing bodily needs to affective consciousness and artificial-agent design.",
+   "flag": "Independent commentary; cited paper title, author list and posting date differ from the linked arXiv record",
+   "url": "https://theconsciousness.ai/posts/mark-solms-interoceptive-prioritisation-active-inference-2026/"
   },
   {
    "who": "solms",
