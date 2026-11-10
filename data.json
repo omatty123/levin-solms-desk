@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T02:02:48Z",
+ "last_checked": "2026-11-10T02:53:32Z",
  "items": [
   {
    "who": "levin",
@@ -204,6 +204,16 @@
    "src": "Thoughtforms Life",
    "blurb": "Levin uses morphogenesis and non-neural cells to explore collective intelligence and behavioral experiments with unconventional cognitive agents.",
    "url": "https://thoughtforms-life.aipodcast.ing/neuroscience-beyond-neurons-communicating-with-unconventional-minds-by-michael-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-06",
+   "type": "Article",
+   "title": "Biologist Michael Levin Evidence and Scholarly Criticism Index",
+   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+   "blurb": "An annotated index examines evidence and criticism of Levin’s bioelectricity research, cognitive terminology and Platonic claims, separating experimental results from broader interpretations.",
+   "flag": "Independent commentary; not peer reviewed",
+   "url": "https://sweetrationalism.com/articles/biology/michael-levin-science-or-pseudoscience-criticism-index/"
   },
   {
    "who": "levin",
@@ -481,6 +491,15 @@
    "src": "IWAI 2026 · Accepted manuscript on arXiv · Proceedings forthcoming",
    "blurb": "Solms and colleagues compare two ways artificial agents prioritize bodily needs, finding different effects on survival, perception, and learning an internal body model.",
    "url": "https://arxiv.org/abs/2610.18617"
+  },
+  {
+   "who": "solms",
+   "date": "2026-10-09",
+   "type": "Article",
+   "title": "Neuroscience Has Not Vindicated Freud’s Unconscious",
+   "src": "Unorthodox Psychotherapist · Substack · Independent commentary",
+   "blurb": "A critique of Solms’s The Only Cure distinguishes unconscious learning and nondeclarative memory from Freud’s repression, questioning whether modern translations validate the original concepts.",
+   "url": "https://thehumanconditionrevisited.substack.com/p/neuroscience-has-not-vindicated-freuds"
   },
   {
    "who": "solms",
