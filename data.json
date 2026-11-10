@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T15:23:19Z",
+ "last_checked": "2026-11-10T16:32:59Z",
  "items": [
   {
    "who": "levin",
@@ -476,6 +476,16 @@
    "src": "Wandering Thoughts",
    "blurb": "How cells coordinate bodies, with discussions of regeneration, xenobots, anthrobots and aging.",
    "url": "https://podcasts.apple.com/au/podcast/bioelectricity-collective-intelligence-regeneration/id1866596406?i=1000788956994"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-10",
+   "type": "Article",
+   "title": "Your Brain Doesn’t Produce Your Mind — It Just Tunes Into It",
+   "src": "imbaresearchlabs · Medium · Independent commentary",
+   "blurb": "An independent summary of Levin’s Ingressing Minds discusses Platonic patterns, bioelectric memory, synthetic organisms and ethical implications of unfamiliar minds.",
+   "flag": "Independent commentary on a speculative framework; not evidence that the brain receives consciousness",
+   "url": "https://imbamotionlabs.medium.com/your-brain-doesnt-produce-your-mind-it-just-tunes-into-it-eef25e185a1b"
   },
   {
    "who": "levin",
