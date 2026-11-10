@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-09T23:26:32Z",
+ "last_checked": "2026-11-10T00:37:38Z",
  "items": [
   {
    "who": "levin",
@@ -57,6 +57,26 @@
    "src": "Michael Levin · Forms of life, forms of mind",
    "blurb": "Levin introduces an interactive map connecting his work on minds, life and agency, with a glossary and source papers.",
    "url": "https://thoughtforms.life/interactive-mindmap-is-online/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-03",
+   "type": "Article",
+   "title": "Michael Levin's 'Gut Feeling' Dismissal of Critics, Audited",
+   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+   "blurb": "Sweet challenges Levin’s handling of AI-assisted criticism and asks for specific, testable responses to objections about Platonic causation.",
+   "flag": "AI-assisted commentary; not peer reviewed",
+   "url": "https://sweetrationalism.com/articles/ontology/michael-levin-nathan-sweet-gut-feeling-dismissal-shield-physicalism-is-false-claim/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-03",
+   "type": "Article",
+   "title": "Michael Levin’s Xenobots: Are They Real? Do They Prove That “Physicalism Is False”?",
+   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+   "blurb": "Sweet distinguishes xenobot experiments from Levin’s philosophical interpretation, questioning whether the evidence supports nonphysical causation and examining independent replication.",
+   "flag": "AI-assisted commentary; not peer reviewed",
+   "url": "https://sweetrationalism.com/articles/biology/michael-levins-xenobots-are-they-real-do-they-prove-physicalism-false-as-he-claims/"
   },
   {
    "who": "levin",
@@ -154,6 +174,16 @@
    "src": "Thoughtforms Life",
    "blurb": "A conference talk explores inspiration, xenobots and the origins of competencies in newly created living systems.",
    "url": "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-the-biology-computer-science-of-inspiration-by-michael-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-15",
+   "type": "Article",
+   "title": "When Thoughts Become Thinkers",
+   "src": "AkashicNET · Independent research commentary",
+   "blurb": "A conference follow-up connects Levin’s work on patterns, cellular learning and unconventional minds to proposed experiments, separating research findings from philosophical speculation.",
+   "flag": "Human-directed, AI-assisted commentary; not peer reviewed",
+   "url": "https://akashicnet.org/tsc2026/michael-levin"
   },
   {
    "who": "levin",
@@ -511,6 +541,15 @@
    "src": "Chicago Psychoanalytic Institute · Staff Writer · Educational article",
    "blurb": "An institute overview of Solms’s neuropsychoanalysis, covering dreaming and REM sleep, affective consciousness, drive theory and possible clinical implications.",
    "url": "https://chicagoanalysis.org/blog/psychoanalysis/neuropsychoanalysis/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-09-21",
+   "type": "Article",
+   "title": "The Science behind Solms's Only Cure",
+   "src": "Free Speech Backlash · John Marks · Independent commentary",
+   "blurb": "Psychiatrist John Marks discusses Solms’s rehabilitation of Freud, connecting The Only Cure to neuroscience, thermodynamics, predictive processing and psychiatric practice.",
+   "url": "https://www.freespeechbacklash.com/article/science-behind-solmss-only-cure"
   },
   {
    "who": "solms",
