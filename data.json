@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T13:23:35Z",
+ "last_checked": "2026-11-10T14:25:45Z",
  "items": [
   {
    "who": "levin",
@@ -129,6 +129,16 @@
   },
   {
    "who": "levin",
+   "date": "2026-10-28",
+   "type": "Article",
+   "title": "One Loop, Three Minds (Creatura, Part 2)",
+   "src": "Joche Ojeda · Independent engineering commentary",
+   "blurb": "Ojeda compares software-agent designs inspired by Levin, Joscha Bach and Jordan Peterson, explaining nested goal controllers, shared stress signals and safeguards around model actions.",
+   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+   "url": "https://jocheojeda.com/2026/10/28/one-loop-three-minds/"
+  },
+  {
+   "who": "levin",
    "date": "2026-10-25",
    "type": "Article",
    "title": "Active Bioelectric Stigmergy and Scale-Free Niche Construction in Pio-Lopez and Levin's 2026 Preprint",
@@ -154,6 +164,36 @@
    "src": "International Journal of Intelligent Systems · Portillo, Levin and coauthors",
    "blurb": "Researchers model computing systems using nanopore electrical behavior for image classification and biologically inspired ion channels for time-series prediction.",
    "url": "https://onlinelibrary.wiley.com/doi/10.1155/int/4602147"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-23",
+   "type": "Article",
+   "title": "Agents That Defend Goals: What Two Scientists and an Engineer Taught Me About Building Agents",
+   "src": "Joche Ojeda · Independent engineering commentary",
+   "blurb": "Ojeda introduces experiments with software agents inspired by Levin’s goal-directed biology and Bach’s self-models, emphasizing verified outcomes and limits of translating these ideas into engineering.",
+   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+   "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-23",
+   "type": "Article",
+   "title": "Agents That Defend Goals, Part 1: An agent as a colony of controllers",
+   "src": "Joche Ojeda · Independent engineering commentary",
+   "blurb": "Ojeda translates Levin’s ideas about goal states, stress and plasticity into a software-agent design with nested controllers, then examines its behavior when tools fail.",
+   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+   "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals-01-the-levin-colony/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-23",
+   "type": "Article",
+   "title": "Agents That Defend Goals, Part 3: One error channel at two altitudes",
+   "src": "Joche Ojeda · Independent engineering commentary",
+   "blurb": "Ojeda combines Levin-inspired goal regulation with Bach-inspired self-models, exploring how error signals, autonomy limits and human approval can guide a hybrid software agent.",
+   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+   "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals-03-the-hybrid/"
   },
   {
    "who": "levin",
