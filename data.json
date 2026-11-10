@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T04:34:40Z",
+ "last_checked": "2026-11-10T06:17:10Z",
  "items": [
   {
    "who": "levin",
@@ -522,6 +522,16 @@
    "blurb": "An analysis of Alvarez and Levin’s limbomorphs asks whether evolved animated patterns demonstrate goal-directed behavior or merely resemble agents.",
    "flag": "Independent commentary; agency interpretation remains unresolved",
    "url": "https://theconsciousness.ai/posts/limbomorphs-agent-like-dynamics-levin-2026/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-11-09",
+   "type": "Article",
+   "title": "The Performance of Empathy Isn't Empathy",
+   "src": "Velocity Meter · Avi Savar · Editorial podcast digest",
+   "blurb": "A multi-podcast digest contrasts simulated empathy with genuine feeling, drawing on Solms’s brainstem account of consciousness and its implications for artificial sentience.",
+   "flag": "Editorial synthesis; discusses the already listed Theories of Everything episode",
+   "url": "https://www.velocitymeter.com/sherry-turkle-says-ai-empathy-is-a-category-error/"
   },
   {
    "who": "solms",
