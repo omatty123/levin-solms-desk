@@ -1,7 +1,17 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T14:25:45Z",
+ "last_checked": "2026-11-10T15:23:19Z",
  "items": [
+  {
+   "who": "levin",
+   "date": "2026-11-09",
+   "type": "Article",
+   "title": "Douglas Brash’s Chladni Plate Challenge to Michael Levin’s Biological Platonism",
+   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+   "blurb": "Sweet revisits Brash’s pattern-formation examples and planarian experiments, arguing that Levin’s Platonic interpretation needs predictions distinguishing it from biological and physical explanations.",
+   "flag": "Independent commentary; updated November 10, 2026; not peer reviewed",
+   "url": "https://sweetrationalism.com/articles/biology/bioelectricity-morphogenesis/michael-levin-biological-platonism-chladni-plate-challenge/"
+  },
   {
    "who": "levin",
    "date": "2026-11-08",
