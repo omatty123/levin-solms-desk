@@ -1,7 +1,17 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-10T02:53:32Z",
+ "last_checked": "2026-11-10T03:40:53Z",
  "items": [
+  {
+   "who": "levin",
+   "date": "2026-11-08",
+   "type": "Article",
+   "title": "It Knows When to Stop",
+   "src": "John Rector · Independent philosophical commentary",
+   "blurb": "Rector uses Levin’s work on adaptive morphogenesis and bioelectric memory to develop a speculative analogy between biological target shapes and the development of civilization.",
+   "flag": "Independent commentary; philosophical extrapolation, not a new scientific result",
+   "url": "https://johnrector.me/2026/11/08/it-knows-when-to-stop/"
+  },
   {
    "who": "levin",
    "date": "2026-11-07",
@@ -109,6 +119,16 @@
   },
   {
    "who": "levin",
+   "date": "2026-10-28",
+   "type": "Article",
+   "title": "Michael Levin on Bioelectricity and Genius",
+   "src": "Fabulous · Pod · Written podcast digest",
+   "blurb": "A written digest of Levin’s Human Potential Lab interview covers bioelectric coordination, cognitive light cones and his speculative account of genius through Platonic patterns.",
+   "flag": "Summary of the already listed Human Potential Lab episode",
+   "url": "https://www.thefabulous.co/pod/psychology-podcast/michael-levin-on-bioelectricity-and-genius/"
+  },
+  {
+   "who": "levin",
    "date": "2026-10-25",
    "type": "Article",
    "title": "Active Bioelectric Stigmergy and Scale-Free Niche Construction in Pio-Lopez and Levin's 2026 Preprint",
@@ -154,6 +174,16 @@
    "src": "Thoughtforms Life",
    "blurb": "Levin discusses experimental systems for studying unfamiliar minds, his Platonic Space proposal and cautious perspectives on consciousness.",
    "url": "https://thoughtforms-life.aipodcast.ing/new-bodies-unconventional-minds-a-continuum-of-cognition-consciousness-by-michael-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-17",
+   "type": "Article",
+   "title": "Large Language Models as a Cognitive Virus in Solé and Levin's Model",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "Independent commentary examines Solé and Levin’s theoretical model of language-model dependence, highlighting proposed tipping points and ways to preserve autonomous human cognition.",
+   "flag": "Discusses a theoretical preprint; not empirical evidence of user outcomes",
+   "url": "https://theconsciousness.ai/posts/sole-levin-large-language-models-cognitive-virus-2026/"
   },
   {
    "who": "levin",
@@ -416,6 +446,15 @@
   },
   {
    "who": "levin",
+   "date": "2026-09-05",
+   "type": "Article",
+   "title": "Michael Levin's Bioelectric Memory Research From Planaria to Xenobots",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "An overview connects planarian memory after regeneration to synthetic living constructs, distinguishing evidence of persistent information from claims about subjective experience.",
+   "url": "https://theconsciousness.ai/posts/levin-bioelectric-memory-planaria-xenobots-2026/"
+  },
+  {
+   "who": "levin",
    "date": "2026-09-03",
    "type": "Podcast",
    "len": "about 59 min",
@@ -453,6 +492,36 @@
    "blurb": "Bacterial collectives form spatial patterns around frog embryos and xenobots. Machine learning identifies signatures distinguishing the nearby living targets, suggesting distributed environmental sensing.",
    "flag": "Not peer reviewed",
    "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748853v1"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-01",
+   "type": "Article",
+   "title": "Causal Emergence Appears Before Self-Replicators in Catalytic Networks",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "Commentary on Pigozzi and Levin’s catalytic-network model explores whether integrated causal organization can precede self-replication, while considering speculative implications for agency.",
+   "flag": "Discusses a computational preprint; not peer reviewed",
+   "url": "https://theconsciousness.ai/posts/causal-emergence-before-self-replicators-gard-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-01",
+   "type": "Article",
+   "title": "Intelligence From Learnable Novelty and the Free Energy Principle",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "Commentary examines Zhang and Levin’s proposal to distinguish learnable surprise from noise, discussing exploration, intrinsic motivation and connections to predictive processing.",
+   "flag": "Discusses a computational preprint; not peer reviewed",
+   "url": "https://theconsciousness.ai/posts/intelligence-from-learnable-novelty-levin/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-01",
+   "type": "Article",
+   "title": "Limbomorphs and Whether Agency Can Emerge Without Rules",
+   "src": "The Consciousness AI · Independent commentary",
+   "blurb": "An analysis of Alvarez and Levin’s limbomorphs asks whether evolved animated patterns demonstrate goal-directed behavior or merely resemble agents.",
+   "flag": "Independent commentary; agency interpretation remains unresolved",
+   "url": "https://theconsciousness.ai/posts/limbomorphs-agent-like-dynamics-levin-2026/"
   },
   {
    "who": "solms",
