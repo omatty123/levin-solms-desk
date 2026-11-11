@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-11T17:10:40Z",
+ "last_checked": "2026-11-11T17:28:53Z",
  "items": [
   {
    "who": "levin",
@@ -315,6 +315,16 @@
    "blurb": "An annotated index examines evidence and criticism of Levin’s bioelectricity research, cognitive terminology and Platonic claims, separating experimental results from broader interpretations.",
    "flag": "Independent commentary; not peer reviewed",
    "url": "https://sweetrationalism.com/articles/biology/michael-levin-science-or-pseudoscience-criticism-index/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-05",
+   "type": "Article",
+   "title": "The Mind Beyond the Brain: Michael Levin and the Ingressing of Consciousness",
+   "src": "Recipe for Life · Geoff Kaile · Independent philosophical commentary",
+   "blurb": "Kaile compares Levin’s ingressing-minds proposal with Plato and Merleau-Ponty, then extends these philosophical ideas to embodiment, empathy and psychological experience.",
+   "flag": "Independent philosophical commentary; therapeutic implications are speculative, not established clinical evidence",
+   "url": "https://recipe4.life/blog/levin-ingressing"
   },
   {
    "who": "levin",
