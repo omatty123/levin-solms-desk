@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-11T13:26:41Z",
+ "last_checked": "2026-11-11T15:31:03Z",
  "items": [
   {
    "who": "levin",
@@ -365,6 +365,16 @@
    "blurb": "Guest John Vervaeke discusses Levin’s cognitive light cone, Platonic minds and cognition across living systems.",
    "flag": "About Levin's ideas; Levin does not appear",
    "url": "https://podcasts.apple.com/nz/podcast/159-no-1-biopsychist-michael-levins-platonic-minds/id1752486249?i=1000792051293"
+  },
+  {
+   "who": "levin",
+   "date": "2026-09-27",
+   "type": "Article",
+   "title": "Ingressing minds: where evidence ends and ontology begins",
+   "src": "AkashicOMNI × AkashicNET · Independent commentary",
+   "blurb": "An independent review separates Levin’s experimental examples from his Platonic interpretation and proposes comparative tests to distinguish that account from physical models.",
+   "flag": "AI-assisted independent commentary; not peer reviewed; no new experiments",
+   "url": "https://akashicnet.org/akashicomni/ingressing-minds-review"
   },
   {
    "who": "levin",
