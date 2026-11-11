@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-11T15:31:03Z",
+ "last_checked": "2026-11-11T17:10:40Z",
  "items": [
   {
    "who": "levin",
@@ -107,6 +107,17 @@
    "blurb": "Sweet distinguishes xenobot experiments from Levin’s philosophical interpretation, questioning whether the evidence supports nonphysical causation and examining independent replication.",
    "flag": "AI-assisted commentary; not peer reviewed",
    "url": "https://sweetrationalism.com/articles/biology/michael-levins-xenobots-are-they-real-do-they-prove-physicalism-false-as-he-claims/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-01",
+   "type": "Podcast",
+   "len": "56 min 23 sec",
+   "title": "Eu Cresc-Podcast- De la Experiență la Inteligență",
+   "src": "Eu Cresc - Podcast · Dana Ilies",
+   "blurb": "Dana Ilies applies Levin’s goal-directed view of intelligence to learning, flexibility and resilience, alongside transformative experience and predictive neuroscience.",
+   "flag": "Romanian-language commentary; discusses Levin’s ideas; Levin does not appear",
+   "url": "https://danailies.substack.com/p/eu-cresc-podcast-de-la-experienta"
   },
   {
    "who": "levin",
