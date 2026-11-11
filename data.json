@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-11T17:28:53Z",
+ "last_checked": "2026-11-11T18:30:04Z",
  "items": [
   {
    "who": "levin",
@@ -167,6 +167,16 @@
    "blurb": "Ojeda compares software-agent designs inspired by Levin, Joscha Bach and Jordan Peterson, explaining nested goal controllers, shared stress signals and safeguards around model actions.",
    "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
    "url": "https://jocheojeda.com/2026/10/28/one-loop-three-minds/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-26",
+   "type": "Peer-reviewed paper",
+   "title": "Looking for keys in model organisms: interpreting and keying-up in basal cognition",
+   "src": "History and Philosophy of the Life Sciences · Wiktor Rorot",
+   "blurb": "Rorot examines how Levin’s planarian regeneration experiments become models of cognition, distinguishing useful initial analogies from fully supported inferences across biological systems.",
+   "flag": "Philosophical analysis of Levin’s research; Levin is not an author",
+   "url": "https://link.springer.com/article/10.1007/s40656-026-00776-9"
   },
   {
    "who": "levin",
