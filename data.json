@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-11T08:48:23Z",
+ "last_checked": "2026-11-11T09:50:57Z",
  "items": [
   {
    "who": "levin",
@@ -632,6 +632,16 @@
    "blurb": "An analysis of Alvarez and Levin’s limbomorphs asks whether evolved animated patterns demonstrate goal-directed behavior or merely resemble agents.",
    "flag": "Independent commentary; agency interpretation remains unresolved",
    "url": "https://theconsciousness.ai/posts/limbomorphs-agent-like-dynamics-levin-2026/"
+  },
+  {
+   "who": "solms",
+   "date": "2026-11-09",
+   "type": "Article",
+   "title": "Where is sentience, and what’s it for?",
+   "src": "Conscium · Calum Chace · Debate commentary",
+   "blurb": "Calum Chace compares Solms’s and Humphrey’s accounts of sentience, examining brainstem versus cortical origins, competing needs, empathy, and implications for conscious AI.",
+   "flag": "Commentary; article byline dated November 9, 2026, while the blog index lists November 10",
+   "url": "https://conscium.com/en/blog/where-is-sentience-and-whats-it-for"
   },
   {
    "who": "solms",
