@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-12T14:22:30Z",
+ "last_checked": "2026-11-12T15:31:02Z",
  "items": [
   {
    "who": "levin",
@@ -1006,6 +1006,26 @@
    "src": "Popular Mechanics · Darren Orf",
    "blurb": "Solms’s brainstem account frames reporting on Devor and Baron’s argument that pain and raw sentience originate below the cortex.",
    "url": "https://www.popularmechanics.com/science/a74391852/ancient-brain-region-conscious/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-12",
+   "type": "Article",
+   "title": "Responding to Joel Dietz (MIT)’s “77.6++%” Defense of Michael Levin’s Biological Causal Platonism and His Demonstrable Misrepresentations of My Actual Argument",
+   "src": "Sweet Rationalism · Nathan Sweet · AI-assisted independent commentary",
+   "blurb": "Sweet disputes Dietz’s audit methods and interpretation, arguing that computational models do not establish Levin’s proposed nonphysical causation.",
+   "flag": "About Levin's ideas",
+   "url": "https://sweetrationalism.com/articles/epistemology/joel-dietz-audit-nathan-sweet-bubble-sort-response/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-11-11",
+   "type": "Article",
+   "title": "Auditing Michael Levin’s Platonism: 88.1% on the Math, 0% on the Ghosts (77.6++% Overall)",
+   "src": "MetaMeditations · Joel Dietz · AI-assisted independent commentary",
+   "blurb": "Dietz evaluates seven claims associated with Levin’s Ingressing Minds, distinguishing computational and biological models from claims about nonphysical causes.",
+   "flag": "About Levin's ideas",
+   "url": "https://metameditations.substack.com/p/auditing-michael-levins-platonism"
   }
  ]
 }
