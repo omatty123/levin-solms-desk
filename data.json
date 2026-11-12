@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-12T00:29:47Z",
+ "last_checked": "2026-11-12T01:23:18Z",
  "items": [
   {
    "who": "levin",
@@ -743,6 +743,16 @@
    "src": "The Circle Of Insight · Dr. Carlos",
    "blurb": "Solms explains his view that consciousness begins with feelings generated in the brainstem, linking emotion, survival and decision-making to neuroscience and psychoanalysis.",
    "url": "https://www.spreaker.com/episode/where-consciousness-begins-dr-mark-solms-on-emotion-and-the-feeling-brain--76239105"
+  },
+  {
+   "who": "solms",
+   "date": "2026-11-08",
+   "type": "Article",
+   "title": "Bewustzijn zit niet in de hersenschors",
+   "src": "GoodFeeling · Nick Haenen · Dutch-language commentary",
+   "blurb": "A Dutch overview explains Solms’s brainstem-centered account of consciousness, linking affect, dreams and homeostasis while outlining evidence and objections.",
+   "flag": "Secondary commentary; not a new interview or research paper",
+   "url": "https://goodfeeling.nl/bewustzijn-hersenstam/"
   },
   {
    "who": "solms",
