@@ -1,6 +1,6 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-11T23:17:19Z",
+ "last_checked": "2026-11-12T00:06:57Z",
  "items": [
   {
    "who": "levin",
@@ -365,6 +365,16 @@
    "blurb": "Sweet questions whether Levin’s Platonic interpretation makes testable predictions beyond existing biological explanations, separating experimental findings from broader metaphysical claims.",
    "flag": "Independent commentary; computationally assisted; updated November 5, 2026; not peer reviewed",
    "url": "https://sweetrationalism.com/articles/metaphysics/religion-with-a-pipette-is-michael-levins-ingressing-minds-pseudoscience-a-scholarly-analysis/"
+  },
+  {
+   "who": "levin",
+   "date": "2026-10-01",
+   "type": "Article",
+   "title": "Scientists Found a “Third State” Of Being Between Life and Death",
+   "src": "Gadget Review · Rex Edison",
+   "blurb": "Reports on xenobots and anthrobots, explaining Levin’s basal-cognition view while distinguishing cellular self-organization from unproven claims of subjective consciousness.",
+   "flag": "Reports earlier research; cellular consciousness remains unestablished",
+   "url": "https://www.gadgetreview.com/scientists-found-a-third-state-of-being-between-life-and-death"
   },
   {
    "who": "levin",
