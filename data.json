@@ -1,7 +1,18 @@
 {
  "since": "2026-09-01",
- "last_checked": "2026-11-12T03:26:41Z",
+ "last_checked": "2026-11-12T03:37:54Z",
  "items": [
+  {
+   "who": "levin",
+   "date": "2026-11-09",
+   "type": "Podcast",
+   "len": "63 min",
+   "title": "The Borderland Between Psi and Neuroscience with Richard Silberstein",
+   "src": "New Thinking Allowed · Richard Silberstein with Jeffrey Mishlove",
+   "blurb": "A closing discussion examines Levin’s bioelectric control of tadpole development, top-down organization and medical implications, alongside Silberstein’s speculative claims about consciousness.",
+   "flag": "Levin does not appear; focused discussion around 55:43–58:26; paranormal extrapolations are speculative, not established by Levin’s experiments",
+   "url": "https://jmishlove.podbean.com/e/the-borderland-between-psi-and-neuroscience-with-richard-silberstein/"
+  },
   {
    "who": "levin",
    "date": "2026-11-09",
