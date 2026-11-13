@@ -1,1031 +1,1031 @@
 {
- "since": "2026-09-01",
- "last_checked": "2026-11-13T09:14:06.672Z",
- "items": [
-  {
-   "who": "levin",
-   "date": "2026-11-09",
-   "type": "Podcast",
-   "len": "63 min",
-   "title": "The Borderland Between Psi and Neuroscience with Richard Silberstein",
-   "src": "New Thinking Allowed · Richard Silberstein with Jeffrey Mishlove",
-   "blurb": "A closing discussion examines Levin’s bioelectric control of tadpole development, top-down organization and medical implications, alongside Silberstein’s speculative claims about consciousness.",
-   "flag": "Levin does not appear; focused discussion around 55:43–58:26; paranormal extrapolations are speculative, not established by Levin’s experiments",
-   "url": "https://jmishlove.podbean.com/e/the-borderland-between-psi-and-neuroscience-with-richard-silberstein/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-09",
-   "type": "Article",
-   "title": "Douglas Brash’s Chladni Plate Challenge to Michael Levin’s Biological Platonism",
-   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
-   "blurb": "Sweet revisits Brash’s pattern-formation examples and planarian experiments, arguing that Levin’s Platonic interpretation needs predictions distinguishing it from biological and physical explanations.",
-   "flag": "Independent commentary; updated November 10, 2026; not peer reviewed",
-   "url": "https://sweetrationalism.com/articles/biology/bioelectricity-morphogenesis/michael-levin-biological-platonism-chladni-plate-challenge/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-08",
-   "type": "Article",
-   "title": "It Knows When to Stop",
-   "src": "John Rector · Independent philosophical commentary",
-   "blurb": "Rector uses Levin’s work on adaptive morphogenesis and bioelectric memory to develop a speculative analogy between biological target shapes and the development of civilization.",
-   "flag": "Independent commentary; philosophical extrapolation, not a new scientific result",
-   "url": "https://johnrector.me/2026/11/08/it-knows-when-to-stop/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-07",
-   "type": "Article",
-   "title": "Santosh Manicka and Michael Levin Introduce Topoiesis in Collective Morphogenesis",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "Independent commentary on Manicka and Levin’s topoiesis preprint, connecting collective embryo development and group geometry to broader questions about biological boundaries.",
-   "url": "https://theconsciousness.ai/posts/santosh-manicka-michael-levin-topoiesis-collective-morphogenesis-2026/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-07",
-   "type": "Article",
-   "title": "The Unlearned Pattern",
-   "src": "GTCode.com Research · Independent research proposal",
-   "blurb": "A research proposal discusses Levin’s bioelectric-memory studies while distinguishing demonstrated memory within tissues from unestablished claims that learning transfers between isolated systems.",
-   "flag": "Independent proposal; not peer reviewed; updated November 8, 2026; distant-learning transfer is unestablished",
-   "url": "https://gtcode.com/articles/the-unlearned-pattern/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-05",
-   "type": "Article",
-   "title": "Michael Levin Blends Biology With Physics To Conquer Human Disease",
-   "src": "Investor's Business Daily",
-   "blurb": "A profile of Levin’s interdisciplinary research, leadership and ambitions for regenerative medicine, with cautions about the time needed for clinical breakthroughs.",
-   "url": "https://www.investors.com/news/management/leaders-and-success/michael-levin-blends-biology-with-physics-to-conquer-human-disease/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-05",
-   "type": "Article",
-   "title": "Como corvos, plantas e IA desafiam o que sabemos sobre consciência",
-   "src": "UOL · Murilo Garavello · Portuguese-language commentary",
-   "blurb": "A discussion of consciousness examines Levin’s planarian memory and bioelectric experiments, while emphasizing that information processing does not by itself demonstrate subjective experience.",
-   "flag": "Subscriber-only article",
-   "url": "https://www.uol.com.br/vida/colunas/missao-saber/2026/11/05/como-corvos-plantas-e-ia-desafiam-o-que-sabemos-sobre-consciencia.htm"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-04",
-   "type": "Article",
-   "title": "Michael Levin: Memory and intelligence do not require a brain",
-   "src": "Institute of Art and Ideas · Interview by Alasdair Craig",
-   "blurb": "Levin discusses biobots, cellular memory and learning, arguing that biology must look beyond genes and brains to explain purposeful behavior.",
-   "url": "https://iai.tv/articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-04",
-   "type": "Preprint",
-   "title": "A topoietic model of collective morphogenesis and compartmentalization",
-   "src": "bioRxiv · Manicka and Levin",
-   "blurb": "A model proposes that signal diffusion and group geometry explain how frog embryos collectively resist developmental stress.",
-   "flag": "Not peer reviewed",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763900v1"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-03",
-   "type": "Article",
-   "title": "Interactive MindMap is online",
-   "src": "Michael Levin · Forms of life, forms of mind",
-   "blurb": "Levin introduces an interactive map connecting his work on minds, life and agency, with a glossary and source papers.",
-   "url": "https://thoughtforms.life/interactive-mindmap-is-online/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-03",
-   "type": "Article",
-   "title": "Michael Levin's 'Gut Feeling' Dismissal of Critics, Audited",
-   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
-   "blurb": "Sweet challenges Levin’s handling of AI-assisted criticism and asks for specific, testable responses to objections about Platonic causation.",
-   "flag": "AI-assisted commentary; not peer reviewed",
-   "url": "https://sweetrationalism.com/articles/ontology/michael-levin-nathan-sweet-gut-feeling-dismissal-shield-physicalism-is-false-claim/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-03",
-   "type": "Article",
-   "title": "Michael Levin’s Xenobots: Are They Real? Do They Prove That “Physicalism Is False”?",
-   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
-   "blurb": "Sweet distinguishes xenobot experiments from Levin’s philosophical interpretation, questioning whether the evidence supports nonphysical causation and examining independent replication.",
-   "flag": "AI-assisted commentary; not peer reviewed",
-   "url": "https://sweetrationalism.com/articles/biology/michael-levins-xenobots-are-they-real-do-they-prove-physicalism-false-as-he-claims/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-01",
-   "type": "Podcast",
-   "len": "56 min 23 sec",
-   "title": "Eu Cresc-Podcast- De la Experiență la Inteligență",
-   "src": "Eu Cresc - Podcast · Dana Ilies",
-   "blurb": "Dana Ilies applies Levin’s goal-directed view of intelligence to learning, flexibility and resilience, alongside transformative experience and predictive neuroscience.",
-   "flag": "Romanian-language commentary; discusses Levin’s ideas; Levin does not appear",
-   "url": "https://danailies.substack.com/p/eu-cresc-podcast-de-la-experienta"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-01",
-   "type": "Article",
-   "title": "DNA不是藍圖~ #生物電才是生命底層作業系統 #麥可·萊文Michael Levin 應該要拿到諾貝爾獎的!!",
-   "src": "Vocus · 真師傅 · Traditional Chinese commentary",
-   "blurb": "Traditional Chinese commentary discusses Levin’s bioelectricity and regeneration research and speculates about future Nobel recognition.",
-   "flag": "Independent commentary; not peer reviewed; Nobel recognition claims are speculative",
-   "url": "https://vocus.cc/article/6ae6c585fd89780001bf9458"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-31",
-   "type": "Podcast",
-   "len": "about 35 min",
-   "title": "Thoughts as Thinkers: biology & computer science of inspiration within & without us",
-   "src": "Thoughtforms Life",
-   "blurb": "Levin explores patterns as behavioral policies and asks where unexpected biological competencies and human inspiration originate.",
-   "url": "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-biology-computer-science-of-inspiration-within-without-us-by-michael-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-29",
-   "type": "Article",
-   "title": "Preprint: regrowing a frog's leg shifts gene activity in its brain",
-   "src": "longevitydocs™ News · Research explainer",
-   "blurb": "An explainer of Levin and colleagues’ frog regeneration preprint describes changes in brain gene activity and highlights the small sample and limits on interpreting brain–body signaling.",
-   "url": "https://news.longevitydocs.org/research/xenopus-limb-regeneration-biodome-brain-transcriptome-preprint-2026"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-28",
-   "type": "Podcast",
-   "len": "62 min",
-   "title": "Where Does Genius Come From?",
-   "src": "Human Potential Lab · Scott Barry Kaufman · Episode 2",
-   "blurb": "Levin discusses cellular intelligence, bioelectricity and his speculative Platonic-space account of genius and inspiration with Scott Barry Kaufman.",
-   "url": "https://humanpotential.co/episodes/where-does-genius-come-from/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-28",
-   "type": "Article",
-   "title": "Michael Levin on Bioelectricity and Genius",
-   "src": "Fabulous · Pod · Written podcast digest",
-   "blurb": "A written digest of Levin’s Human Potential Lab interview covers bioelectric coordination, cognitive light cones and his speculative account of genius through Platonic patterns.",
-   "flag": "Summary of the already listed Human Potential Lab episode",
-   "url": "https://www.thefabulous.co/pod/psychology-podcast/michael-levin-on-bioelectricity-and-genius/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-28",
-   "type": "Article",
-   "title": "One Loop, Three Minds (Creatura, Part 2)",
-   "src": "Joche Ojeda · Independent engineering commentary",
-   "blurb": "Ojeda compares software-agent designs inspired by Levin, Joscha Bach and Jordan Peterson, explaining nested goal controllers, shared stress signals and safeguards around model actions.",
-   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
-   "url": "https://jocheojeda.com/2026/10/28/one-loop-three-minds/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-26",
-   "type": "Peer-reviewed paper",
-   "title": "Looking for keys in model organisms: interpreting and keying-up in basal cognition",
-   "src": "History and Philosophy of the Life Sciences · Wiktor Rorot",
-   "blurb": "Rorot examines how Levin’s planarian regeneration experiments become models of cognition, distinguishing useful initial analogies from fully supported inferences across biological systems.",
-   "flag": "Philosophical analysis of Levin’s research; Levin is not an author",
-   "url": "https://link.springer.com/article/10.1007/s40656-026-00776-9"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-25",
-   "type": "Article",
-   "title": "Active Bioelectric Stigmergy and Scale-Free Niche Construction in Pio-Lopez and Levin's 2026 Preprint",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "Independent commentary on how cells and other agents modify their surroundings, considering environmental memory, bioelectric stigmergy and the limits of extending these ideas to consciousness.",
-   "url": "https://theconsciousness.ai/posts/pio-lopez-levin-scale-free-niche-construction-bioelectric-stigmergy-2026/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-24",
-   "type": "Preprint",
-   "title": "Limb-localized induction of regeneration reshapes brain and amputation-site transcriptional states in adult Xenopus laevis",
-   "src": "bioRxiv · Russell, Miller, Kaplan, Levin and Murugan",
-   "blurb": "After a local regenerative treatment, adult frogs show changes in gene activity in both the amputated limb and brain, identifying possible pathways for further brain–body communication research.",
-   "flag": "Not peer reviewed",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761414v1"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-23",
-   "type": "Peer-reviewed paper",
-   "title": "Reservoir Computing for Pattern Recognition and Time‐Series Prediction Based on Nanofluidic Negative Differential Resistance",
-   "src": "International Journal of Intelligent Systems · Portillo, Levin and coauthors",
-   "blurb": "Researchers model computing systems using nanopore electrical behavior for image classification and biologically inspired ion channels for time-series prediction.",
-   "url": "https://onlinelibrary.wiley.com/doi/10.1155/int/4602147"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-23",
-   "type": "Article",
-   "title": "Agents That Defend Goals: What Two Scientists and an Engineer Taught Me About Building Agents",
-   "src": "Joche Ojeda · Independent engineering commentary",
-   "blurb": "Ojeda introduces experiments with software agents inspired by Levin’s goal-directed biology and Bach’s self-models, emphasizing verified outcomes and limits of translating these ideas into engineering.",
-   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
-   "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-23",
-   "type": "Article",
-   "title": "Agents That Defend Goals, Part 1: An agent as a colony of controllers",
-   "src": "Joche Ojeda · Independent engineering commentary",
-   "blurb": "Ojeda translates Levin’s ideas about goal states, stress and plasticity into a software-agent design with nested controllers, then examines its behavior when tools fail.",
-   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
-   "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals-01-the-levin-colony/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-23",
-   "type": "Article",
-   "title": "Agents That Defend Goals, Part 3: One error channel at two altitudes",
-   "src": "Joche Ojeda · Independent engineering commentary",
-   "blurb": "Ojeda combines Levin-inspired goal regulation with Bach-inspired self-models, exploring how error signals, autonomy limits and human approval can guide a hybrid software agent.",
-   "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
-   "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals-03-the-hybrid/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-20",
-   "type": "Podcast",
-   "len": "88 min",
-   "title": "Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space",
-   "src": "632nm · Episode 64",
-   "blurb": "Levin discusses unconventional intelligence, learning in gene networks, bioelectricity and his speculative Platonic-space account of where novel biological competencies originate.",
-   "url": "https://632nm.com/episodes/where-does-intelligence-live-michael-levin-on-evolution-ai-and-platonic-space"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-17",
-   "type": "Podcast",
-   "len": "about 39 min",
-   "title": "\"New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)",
-   "src": "Thoughtforms Life",
-   "blurb": "Levin discusses experimental systems for studying unfamiliar minds, his Platonic Space proposal and cautious perspectives on consciousness.",
-   "url": "https://thoughtforms-life.aipodcast.ing/new-bodies-unconventional-minds-a-continuum-of-cognition-consciousness-by-michael-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-17",
-   "type": "Article",
-   "title": "Large Language Models as a Cognitive Virus in Solé and Levin's Model",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "Independent commentary examines Solé and Levin’s theoretical model of language-model dependence, highlighting proposed tipping points and ways to preserve autonomous human cognition.",
-   "flag": "Discusses a theoretical preprint; not empirical evidence of user outcomes",
-   "url": "https://theconsciousness.ai/posts/sole-levin-large-language-models-cognitive-virus-2026/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-16",
-   "type": "Preprint",
-   "title": "Goal directed closed-loop training of network bursts in cortical cultures produces improved performance and error correction over days",
-   "src": "bioRxiv · Levin and coauthors",
-   "blurb": "Cultured rat neurons learn to initiate activity on a target side and recover from errors more reliably across days of training.",
-   "flag": "Not peer reviewed",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759184v1"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-16",
-   "type": "Podcast",
-   "len": "about 35 min",
-   "title": "\"Thoughts as Thinkers: the biology & computer science of inspiration\"",
-   "src": "Thoughtforms Life",
-   "blurb": "A conference talk explores inspiration, xenobots and the origins of competencies in newly created living systems.",
-   "url": "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-the-biology-computer-science-of-inspiration-by-michael-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-15",
-   "type": "Article",
-   "title": "When Thoughts Become Thinkers",
-   "src": "AkashicNET · Independent research commentary",
-   "blurb": "A conference follow-up connects Levin’s work on patterns, cellular learning and unconventional minds to proposed experiments, separating research findings from philosophical speculation.",
-   "flag": "Human-directed, AI-assisted commentary; not peer reviewed",
-   "url": "https://akashicnet.org/tsc2026/michael-levin"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-11",
-   "type": "Podcast",
-   "len": "about 64 min",
-   "title": "\"Mind-Body Interface: an experimental and Clinical Perspective\" by Michael Levin and Karina Kofman",
-   "src": "Thoughtforms Life",
-   "blurb": "Levin and Karina Kofman discuss experimental biology, unusual clinical cases and the relationship between minds and their physical embodiments.",
-   "url": "https://thoughtforms-life.aipodcast.ing/mind-body-interface-an-experimental-and-clinical-perspective-by-michael-levin-and-karina-kofman/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-09",
-   "type": "Podcast",
-   "len": "about 60 min",
-   "title": "\"Neuroscience Beyond Neurons: communicating with unconventional minds\"",
-   "src": "Thoughtforms Life",
-   "blurb": "Levin uses morphogenesis and non-neural cells to explore collective intelligence and behavioral experiments with unconventional cognitive agents.",
-   "url": "https://thoughtforms-life.aipodcast.ing/neuroscience-beyond-neurons-communicating-with-unconventional-minds-by-michael-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-06",
-   "type": "Article",
-   "title": "Biologist Michael Levin Evidence and Scholarly Criticism Index",
-   "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
-   "blurb": "An annotated index examines evidence and criticism of Levin’s bioelectricity research, cognitive terminology and Platonic claims, separating experimental results from broader interpretations.",
-   "flag": "Independent commentary; not peer reviewed",
-   "url": "https://sweetrationalism.com/articles/biology/michael-levin-science-or-pseudoscience-criticism-index/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-05",
-   "type": "Article",
-   "title": "The Mind Beyond the Brain: Michael Levin and the Ingressing of Consciousness",
-   "src": "Recipe for Life · Geoff Kaile · Independent philosophical commentary",
-   "blurb": "Kaile compares Levin’s ingressing-minds proposal with Plato and Merleau-Ponty, then extends these philosophical ideas to embodiment, empathy and psychological experience.",
-   "flag": "Independent philosophical commentary; therapeutic implications are speculative, not established clinical evidence",
-   "url": "https://recipe4.life/blog/levin-ingressing"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-04",
-   "type": "Article",
-   "title": "The Electrical Blueprint of the Body",
-   "src": "The Brutal Truth · Independent commentary",
-   "blurb": "An independent overview of Levin’s bioelectricity research discusses anatomical memory, gene activity and frog regeneration, distinguishing existing animal experiments from speculative implications for future medicine.",
-   "flag": "Independent commentary; not peer reviewed",
-   "url": "https://1hebrutaltruth1.substack.com/p/the-electrical-blueprint-of-the-body"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-03",
-   "type": "Article",
-   "title": "Religion With A Pipette: Is Michael Levin’s ‘Ingressing Minds’ Pseudoscience? A Scholarly Analysis",
-   "src": "Sweet Rationalism · Nathan Sweet · Independent criticism",
-   "blurb": "Sweet questions whether Levin’s Platonic interpretation makes testable predictions beyond existing biological explanations, separating experimental findings from broader metaphysical claims.",
-   "flag": "Independent commentary; computationally assisted; updated November 5, 2026; not peer reviewed",
-   "url": "https://sweetrationalism.com/articles/metaphysics/religion-with-a-pipette-is-michael-levins-ingressing-minds-pseudoscience-a-scholarly-analysis/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-10-01",
-   "type": "Article",
-   "title": "Scientists Found a “Third State” Of Being Between Life and Death",
-   "src": "Gadget Review · Rex Edison",
-   "blurb": "Reports on xenobots and anthrobots, explaining Levin’s basal-cognition view while distinguishing cellular self-organization from unproven claims of subjective consciousness.",
-   "flag": "Reports earlier research; cellular consciousness remains unestablished",
-   "url": "https://www.gadgetreview.com/scientists-found-a-third-state-of-being-between-life-and-death"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-30",
-   "type": "Preprint",
-   "title": "Toward Controlling Biology with Language:Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots",
-   "src": "arXiv · Le, Blackiston, Levin and Bongard",
-   "blurb": "An offline learning system maps language instructions to recorded xenobot interventions; whether predicted interventions work in new live experiments remains untested.",
-   "flag": "Not peer reviewed",
-   "url": "https://arxiv.org/abs/2610.02247"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-29",
-   "type": "Podcast",
-   "len": "84 min",
-   "title": "Meet The Physicist Proving The Universe Builds Itself Out Of Information",
-   "src": "Giants Shoulder · with Gordana Dodig-Crnkovic",
-   "blurb": "Gordana Dodig-Crnkovic compares her account of cognition and consciousness with Levin’s ideas, discussing cellular awareness, xenobots and whether gene networks think.",
-   "flag": "About Levin's ideas; Levin does not appear",
-   "url": "https://www.thegiantsshoulder.com/episodes/meet-the-physicist-proving-the-universe-builds-itself-out-of-information"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-28",
-   "type": "Article",
-   "title": "Import AI 474: Platonic mindspace",
-   "src": "Jack Clark · Import AI",
-   "blurb": "A close look at Ingressing Minds: patterns embodied in biological and engineered systems, and the experiments still needed to test the idea.",
-   "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-28",
-   "type": "Podcast",
-   "len": "85 min",
-   "title": "No. 1 Biopsychist: Michael Levin’s Platonic Minds & Cognition All The Way Down",
-   "src": "Giants Shoulder · Episode 159 · with John Vervaeke",
-   "blurb": "Guest John Vervaeke discusses Levin’s cognitive light cone, Platonic minds and cognition across living systems.",
-   "flag": "About Levin's ideas; Levin does not appear",
-   "url": "https://podcasts.apple.com/nz/podcast/159-no-1-biopsychist-michael-levins-platonic-minds/id1752486249?i=1000792051293"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-27",
-   "type": "Article",
-   "title": "Ingressing minds: where evidence ends and ontology begins",
-   "src": "AkashicOMNI × AkashicNET · Independent commentary",
-   "blurb": "An independent review separates Levin’s experimental examples from his Platonic interpretation and proposes comparative tests to distinguish that account from physical models.",
-   "flag": "AI-assisted independent commentary; not peer reviewed; no new experiments",
-   "url": "https://akashicnet.org/akashicomni/ingressing-minds-review"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-25",
-   "type": "Preprint",
-   "title": "Computational Framework for Identifying Ion Channel Mutation-Compensating Interventions",
-   "src": "bioRxiv · Hazan and Levin",
-   "blurb": "Computational models identify ways to compensate for faulty ion channels by adjusting other channels rather than directly modifying the mutated one.",
-   "flag": "Not peer reviewed",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.09.20.753002v1"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-24",
-   "type": "Preprint",
-   "title": "On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation",
-   "src": "arXiv · Levin and coauthors",
-   "blurb": "Neural cellular automata and low-rank adaptations as reusable controls for changing morphology.",
-   "flag": "Not peer reviewed",
-   "url": "https://arxiv.org/abs/2609.29755"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-24",
-   "type": "Podcast",
-   "len": "105 min",
-   "title": "Meet The Evolutionary Theorist Redefining Intelligence With Michael Levin",
-   "src": "Giants Shoulder · Episode 158 · with Richard Watson",
-   "blurb": "Guest Richard Watson discusses his Natural Induction work with Levin, learning without neurons and cognitive approaches to biology and medicine.",
-   "flag": "About Levin's ideas; Levin does not appear",
-   "url": "https://podcasts.apple.com/nz/podcast/158-meet-the-evolutionary-theorist-redefining/id1752486249?i=1000791491919"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-24",
-   "type": "Podcast",
-   "len": "about 63 min",
-   "title": "Discussion with Marsha Hewitt (Platonic Space and related ideas)",
-   "src": "Thoughtforms Life",
-   "blurb": "Levin and Marsha Hewitt discuss Platonic Space, embodied minds and connections between experimental biology, philosophy and the psychology of religion.",
-   "url": "https://thoughtforms-life.aipodcast.ing/discussion-with-marsha-hewitt-platonic-space-and-related-ideas/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-22",
-   "type": "Podcast",
-   "len": "about 21 min",
-   "title": "\"Life, Machines, and a Foundation for Synthbiosis\"",
-   "src": "Thoughtforms Life",
-   "blurb": "A Santa Fe Institute talk explores embodied minds, cellular goals and mutually beneficial relationships among biological, artificial and hybrid beings.",
-   "url": "https://thoughtforms-life.aipodcast.ing/life-machines-and-a-foundation-for-synthbiosis-by-michael-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-21",
-   "type": "Podcast",
-   "len": "56 min",
-   "title": "Bioelectricity, Aging, and the Future of Medicine",
-   "src": "The Arjun Khemani Podcast",
-   "blurb": "Regeneration, bioelectric memory and hypotheses about aging, with a view toward possible future medicine.",
-   "url": "https://www.arjunkhemani.com/p/michael-levin-bioelectricity-aging"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-21",
-   "type": "Podcast",
-   "len": "53 min",
-   "title": "Biology, AI, and Diverse Intelligence",
-   "src": "Thoughtforms Life",
-   "blurb": "Levin introduces diverse intelligence and explains what cellular cognition, bioelectricity and novel organisms can contribute to discussions about artificial intelligence.",
-   "url": "https://thoughtforms-life.aipodcast.ing/biology-ai-and-diverse-intelligence-by-michael-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-18",
-   "type": "Preprint",
-   "title": "A Closed-Loop Robot Scientist for Autonomous Biological Discovery",
-   "src": "bioRxiv · Bielawski, Levin and coauthors",
-   "blurb": "MOMbot combines automated physical interventions, imaging and active learning to investigate embryos, motile organoids and cells, including an electrical stimulus–response relationship.",
-   "flag": "Not peer reviewed",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.09.11.751076v1"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-17",
-   "type": "Article",
-   "title": "Diverse intelligence: An essential field for questions of AI and consciousness",
-   "src": "Behavioral and Brain Sciences · Invited journal commentary",
-   "blurb": "Levin argues that diverse intelligence research complicates attempts to limit consciousness to particular biological or artificial substrates, responding to Anil Seth.",
-   "flag": "External peer review status is unclear",
-   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/diverse-intelligence-an-essential-field-for-questions-of-ai-and-consciousness/5D335CB2EE96EE99AD3E49413FAB7B40"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-17",
-   "type": "Podcast",
-   "len": "38 min",
-   "title": "Ingressing Minds and the Latent Space of Patterns: Your Code Is an Intelligence Antenna",
-   "src": "Neural intel Pod · AI-narrated analysis",
-   "blurb": "AI-narrated discussion of Levin’s Ingressing Minds framework, bioelectric pattern memory, xenobots and polycomputing. It explores speculative implications for artificial intelligence.",
-   "flag": "About Levin's ideas; Levin does not appear",
-   "url": "https://creators.spotify.com/pod/profile/neuralintelpod/episodes/Ingressing-Minds-and-the-Latent-Space-of-Patterns-Your-Code-Is-an-Intelligence-Antenna-e3p0hon"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-15",
-   "type": "Article",
-   "title": "Where New Forms Come From",
-   "src": "Woolf Software · Independent commentary",
-   "blurb": "An extended analysis of Ingressing Minds, its experimental foundations and philosophical objections, with connections to de-extinction and computational biology.",
-   "url": "https://www.woolfsoftware.bio/blog/where-new-forms-come-from/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-13",
-   "type": "Podcast",
-   "len": "about 59 min",
-   "title": "The evolution of language and brain development",
-   "src": "Thoughtforms Life · with Andrey Vyshedskiy",
-   "blurb": "Language evolution, sensitive periods in brain development and future intelligence. A research discussion.",
-   "url": "https://thoughtforms-life.aipodcast.ing/a-conversation-with-andrey-vyshedskiy-about-the-evolution-of-language-and-brain-development/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-11",
-   "type": "Article",
-   "title": "Michael Levin is the most interesting person alive",
-   "src": "Front Stage Exit · Brady Dale · Independent commentary",
-   "blurb": "Dale explores Levin’s Ingressing Minds proposal and its possible implications for intelligence, arguing enthusiastically for the value of investigating unfamiliar forms of cognition.",
-   "flag": "Independent philosophical commentary; speculative interpretation, not a new scientific result",
-   "url": "https://www.frontstageexit.com/p/michael-levin-is-the-most-interesting"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-10",
-   "type": "Podcast",
-   "len": "58 min",
-   "title": "Bioelectricity, Collective Intelligence & Regeneration",
-   "src": "Wandering Thoughts",
-   "blurb": "How cells coordinate bodies, with discussions of regeneration, xenobots, anthrobots and aging.",
-   "url": "https://podcasts.apple.com/au/podcast/bioelectricity-collective-intelligence-regeneration/id1866596406?i=1000788956994"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-10",
-   "type": "Article",
-   "title": "Your Brain Doesn’t Produce Your Mind — It Just Tunes Into It",
-   "src": "imbaresearchlabs · Medium · Independent commentary",
-   "blurb": "An independent summary of Levin’s Ingressing Minds discusses Platonic patterns, bioelectric memory, synthetic organisms and ethical implications of unfamiliar minds.",
-   "flag": "Independent commentary on a speculative framework; not evidence that the brain receives consciousness",
-   "url": "https://imbamotionlabs.medium.com/your-brain-doesnt-produce-your-mind-it-just-tunes-into-it-eef25e185a1b"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-10",
-   "type": "Article",
-   "title": "Michael Levin made me believe in gods",
-   "src": "Unpublishable Papers · Eli Stark-Elster · Independent commentary",
-   "blurb": "Stark-Elster interprets Levin’s Ingressing Minds proposal, extending it into speculative claims about altered states and perceived entities that the cited biological research does not establish.",
-   "flag": "Independent philosophical speculation; claims about psychedelic entities are not established findings",
-   "url": "https://unpublishablepapers.substack.com/p/michael-levin-made-me-believe-in"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-09",
-   "type": "Peer-reviewed paper",
-   "title": "Ingressing Minds",
-   "src": "Philosophies · Published version · Theoretical journal paper",
-   "blurb": "A theoretical proposal connecting synthetic morphology and diverse intelligence with a structured space of patterns. A speculative framework rather than an established finding.",
-   "url": "https://www.mdpi.com/2409-9287/11/5/161"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-09",
-   "type": "Article",
-   "title": "Do we create minds, or give them bodies? Michael Levin’s proposal",
-   "src": "Alien News · Avi Moas and Orion · AI-assisted article",
-   "blurb": "An AI-assisted explainer of Levin’s proposed space of patterns, distinguishing the speculative framework from biological experiments and considering implications for artificial intelligence.",
-   "url": "https://aliennews.co.il/en/articles/michael-levin-ingressing-minds-ai"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-08",
-   "type": "Article",
-   "title": "Slime moulds and the debate over intelligence",
-   "src": "Samanth Subramanian · The Guardian",
-   "blurb": "Includes Levin’s perspective on cognition beyond brains.",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-05",
-   "type": "Article",
-   "title": "Michael Levin's Bioelectric Memory Research From Planaria to Xenobots",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "An overview connects planarian memory after regeneration to synthetic living constructs, distinguishing evidence of persistent information from claims about subjective experience.",
-   "url": "https://theconsciousness.ai/posts/levin-bioelectric-memory-planaria-xenobots-2026/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-03",
-   "type": "Podcast",
-   "len": "about 59 min",
-   "title": "How information moves levels in bodies",
-   "src": "Thoughtforms Life · Diego Bohórquez & Mijail D. Serruya",
-   "blurb": "Gut–brain biology, neural interfaces and communication from molecules to behavior.",
-   "url": "https://thoughtforms-life.aipodcast.ing/conversation-1-with-diego-bohorquez-and-mijail-d-serruya-how-information-moves-levels-in-bodies/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-03",
-   "type": "Preprint",
-   "title": "Large-Language Models as a Cognitive Virus",
-   "src": "arXiv · Solé, Levin and coauthors",
-   "blurb": "A theoretical population model explores possible tipping points in language-model dependence and cognitive autonomy, including conditions intended to preserve independent cognition.",
-   "flag": "Not peer reviewed",
-   "url": "https://arxiv.org/abs/2609.03344"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-03",
-   "type": "Preprint",
-   "title": "Membrane voltage and connexin expression work together to enhance tumor growth and metastasis in cancer",
-   "src": "bioRxiv · Grodstein, Mathews and Levin",
-   "blurb": "A computational model examines how membrane voltage and connexin expression jointly regulate communication between tumor cells and healthy neighbors during growth and invasion.",
-   "flag": "Not peer reviewed",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748840v1"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-03",
-   "type": "Preprint",
-   "title": "Living multicellular systems induce decodable spatial patterns in bacterial collectives",
-   "src": "bioRxiv · Sergeeva, Levin and coauthors",
-   "blurb": "Bacterial collectives form spatial patterns around frog embryos and xenobots. Machine learning identifies signatures distinguishing the nearby living targets, suggesting distributed environmental sensing.",
-   "flag": "Not peer reviewed",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748853v1"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-03",
-   "type": "Article",
-   "title": "Bioelectricity, Marching on...",
-   "src": "Bioelectricity · Djamgoz, Levin and Merla · Editorial",
-   "blurb": "Levin and fellow editors review recent bioelectricity research, including microbial energy, electrical stimulation for regeneration, cancer-cell voltage dynamics and emerging preprints.",
-   "flag": "Journal editorial; external peer review not established",
-   "url": "https://journals.sagepub.com/doi/10.1177/25763113261484675"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-01",
-   "type": "Article",
-   "title": "Causal Emergence Appears Before Self-Replicators in Catalytic Networks",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "Commentary on Pigozzi and Levin’s catalytic-network model explores whether integrated causal organization can precede self-replication, while considering speculative implications for agency.",
-   "flag": "Discusses a computational preprint; not peer reviewed",
-   "url": "https://theconsciousness.ai/posts/causal-emergence-before-self-replicators-gard-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-01",
-   "type": "Article",
-   "title": "Intelligence From Learnable Novelty and the Free Energy Principle",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "Commentary examines Zhang and Levin’s proposal to distinguish learnable surprise from noise, discussing exploration, intrinsic motivation and connections to predictive processing.",
-   "flag": "Discusses a computational preprint; not peer reviewed",
-   "url": "https://theconsciousness.ai/posts/intelligence-from-learnable-novelty-levin/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-09-01",
-   "type": "Article",
-   "title": "Limbomorphs and Whether Agency Can Emerge Without Rules",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "An analysis of Alvarez and Levin’s limbomorphs asks whether evolved animated patterns demonstrate goal-directed behavior or merely resemble agents.",
-   "flag": "Independent commentary; agency interpretation remains unresolved",
-   "url": "https://theconsciousness.ai/posts/limbomorphs-agent-like-dynamics-levin-2026/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-11-09",
-   "type": "Article",
-   "title": "Where is sentience, and what’s it for?",
-   "src": "Conscium · Calum Chace · Debate commentary",
-   "blurb": "Calum Chace compares Solms’s and Humphrey’s accounts of sentience, examining brainstem versus cortical origins, competing needs, empathy, and implications for conscious AI.",
-   "flag": "Commentary; article byline dated November 9, 2026, while the blog index lists November 10",
-   "url": "https://conscium.com/en/blog/where-is-sentience-and-whats-it-for"
-  },
-  {
-   "who": "solms",
-   "date": "2026-11-09",
-   "type": "Article",
-   "title": "The Performance of Empathy Isn't Empathy",
-   "src": "Velocity Meter · Avi Savar · Editorial podcast digest",
-   "blurb": "A multi-podcast digest contrasts simulated empathy with genuine feeling, drawing on Solms’s brainstem account of consciousness and its implications for artificial sentience.",
-   "flag": "Editorial synthesis; discusses the already listed Theories of Everything episode",
-   "url": "https://www.velocitymeter.com/sherry-turkle-says-ai-empathy-is-a-category-error/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-11-09",
-   "type": "Article",
-   "title": "The Appetite for Uncertainty",
-   "src": "Giulia’s Substack · GYBP · Personal essay",
-   "blurb": "A personal essay applies Solms’s idea of felt uncertainty to dining, arguing that advance expectations can crowd out surprise and attentive engagement.",
-   "flag": "Personal application of Solms’s ideas; not scientific evidence",
-   "url": "https://giuliabp.substack.com/p/the-appetite-for-uncertainty"
-  },
-  {
-   "who": "solms",
-   "date": "2026-11-08",
-   "type": "Podcast",
-   "len": "46 min 31 sec",
-   "title": "Where Consciousness Begins: Dr. Mark Solms on Emotion and the Feeling Brain",
-   "src": "The Circle Of Insight · Dr. Carlos",
-   "blurb": "Solms explains his view that consciousness begins with feelings generated in the brainstem, linking emotion, survival and decision-making to neuroscience and psychoanalysis.",
-   "url": "https://www.spreaker.com/episode/where-consciousness-begins-dr-mark-solms-on-emotion-and-the-feeling-brain--76239105"
-  },
-  {
-   "who": "solms",
-   "date": "2026-11-08",
-   "type": "Article",
-   "title": "Bewustzijn zit niet in de hersenschors",
-   "src": "GoodFeeling · Nick Haenen · Dutch-language commentary",
-   "blurb": "A Dutch overview explains Solms’s brainstem-centered account of consciousness, linking affect, dreams and homeostasis while outlining evidence and objections.",
-   "flag": "Secondary commentary; not a new interview or research paper",
-   "url": "https://goodfeeling.nl/bewustzijn-hersenstam/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-11-03",
-   "type": "Preprint",
-   "title": "Birth of a Corpse? Affective Consciousness, Perspectival Identity, and the Unbridged Gap in Artificial Feeling",
-   "src": "Zenodo · Cézjah (Cecil John), New Intellectual LLC · Working paper",
-   "blurb": "Critiques Solms’s artificial-consciousness model, arguing that functional affective regulation does not establish subjective feeling without defending the metaphysical identity between objective value and lived experience.",
-   "flag": "Working paper; peer review not indicated; develops the exchange discussed in the September Medium articles",
-   "url": "https://zenodo.org/records/23933067"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-28",
-   "type": "Podcast",
-   "len": "104 min",
-   "title": "Mark Solms: Consciousness Isn't in the Cortex",
-   "src": "Theories of Everything · Curt Jaimungal",
-   "blurb": "Solms explains why he locates consciousness in brainstem feeling, connecting dreams, neuropsychoanalysis, artificial agents, and the hard problem.",
-   "url": "https://curtjaimungal.substack.com/p/consciousness-isnt-in-the-cortex"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-19",
-   "type": "Article",
-   "title": "Neuropsycholoog Mark Solms: ‘We begrijpen de menselijke geest verkeerd’",
-   "src": "Filosofie Magazine · Annette van der Elst · Dutch-language interview",
-   "blurb": "In this Dutch interview, Solms argues that subjective experience must remain central to understanding the mind, rather than reducing psychology to observable brain processes.",
-   "url": "https://www.filosofie.nl/neuropsycholoog-mark-solms-we-begrijpen-de-menselijke-geest-verkeerd/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-19",
-   "type": "Article",
-   "title": "The Only Cure: Freud and the neuroscience of mental healing",
-   "src": "Therapy Today · Lizzie Stone · Book review · November issue",
-   "blurb": "A trainee psychotherapist reviews Solms’s defence of psychoanalysis, praising its clinical stories while questioning some evidence claims and noting challenging neuroscience.",
-   "flag": "Date is the issue’s publication date; BACP account may be required",
-   "url": "https://www.bacp.co.uk/media/26950/bacp-therapy-today-november-2026.pdf"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-17",
-   "type": "Article",
-   "title": "Mark Solms and Ryan Smith Test Two Routes to Interoceptive Prioritisation",
-   "src": "The Consciousness AI · Independent commentary",
-   "blurb": "Independent commentary connects Solms and colleagues’ active-inference study of competing bodily needs to affective consciousness and artificial-agent design.",
-   "flag": "Independent commentary; cited paper title, author list and posting date differ from the linked arXiv record",
-   "url": "https://theconsciousness.ai/posts/mark-solms-interoceptive-prioritisation-active-inference-2026/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-13",
-   "type": "Peer-reviewed paper",
-   "title": "Two Routes to Interoceptive Prioritisation: Dissociating Likelihood Precision and Preference Reweighting in Active Inference",
-   "src": "IWAI 2026 · Accepted manuscript on arXiv · Proceedings forthcoming",
-   "blurb": "Solms and colleagues compare two ways artificial agents prioritize bodily needs, finding different effects on survival, perception, and learning an internal body model.",
-   "url": "https://arxiv.org/abs/2610.18617"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-09",
-   "type": "Article",
-   "title": "Neuroscience Has Not Vindicated Freud’s Unconscious",
-   "src": "Unorthodox Psychotherapist · Substack · Independent commentary",
-   "blurb": "A critique of Solms’s The Only Cure distinguishes unconscious learning and nondeclarative memory from Freud’s repression, questioning whether modern translations validate the original concepts.",
-   "url": "https://thehumanconditionrevisited.substack.com/p/neuroscience-has-not-vindicated-freuds"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-02",
-   "type": "Podcast",
-   "len": "56 min",
-   "title": "Freud to Luria to modern neuroscience: Mark Solms on the (successful) project for a scientific psychology",
-   "src": "PhilosophyPodcasts.Org",
-   "blurb": "Solms discusses Freud’s scientific psychology and its connections to Luria and contemporary neuroscience, drawing on The Only Cure.",
-   "url": "https://podcasts.apple.com/ie/podcast/freud-to-luria-to-modern-neuroscience-mark-solms-on/id1633703229?i=1000792908016"
-  },
-  {
-   "who": "solms",
-   "date": "2026-10-01",
-   "type": "Article",
-   "title": "The Only Cure?",
-   "src": "Cognitive Wonderland · Tommy Blanchard · Book review",
-   "blurb": "Blanchard reviews Solms’s revised Freudian framework and questions whether the evidence supports giving psychoanalysis special standing among therapies.",
-   "flag": "Subscriber article; preview available",
-   "url": "https://cognitivewonderland.substack.com/p/the-only-cure"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-30",
-   "type": "Podcast",
-   "len": "74 min",
-   "title": "A Great Loss to the Universe (Part Three)",
-   "src": "Suspicious Minds: AI and the Apocalypse",
-   "blurb": "Solms joins David Benatar and other guests to discuss the ethics of creating artificial consciousness, including possible suffering and his reasons for pursuing the work.",
-   "url": "https://art19.com/shows/suspicious-minds/episodes/8af77682-a53d-4a24-a5b6-28d3d765e07d"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-29",
-   "type": "Podcast",
-   "len": "31 min",
-   "title": "What Freud Got Right About the Mind",
-   "src": "The Next Big Idea Daily",
-   "blurb": "Solms on Freud, unconscious memory, emotional needs and talking therapy. The episode also features Paul Conti.",
-   "url": "https://podcasts.apple.com/in/podcast/what-freud-got-right-about-the-mind/id1666681752?i=1000792154913"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-28",
-   "type": "Podcast",
-   "len": "123 min",
-   "title": "What Humans, Animals & Plants Tell Us About Consciousness | Michael Pollan",
-   "src": "Huberman Lab · Michael Pollan with Andrew Huberman",
-   "blurb": "Michael Pollan and Andrew Huberman discuss Solms’s brainstem-centered account of consciousness and the role of homeostatic feelings.",
-   "flag": "About Solms's ideas; Solms does not appear",
-   "url": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-23",
-   "type": "Podcast",
-   "len": "71 min",
-   "title": "Engineering Consciousness (Part Two)",
-   "src": "Suspicious Minds",
-   "blurb": "Solms discusses artificial-agent research and how to test a feeling-centered account of consciousness.",
-   "url": "https://podcasts.apple.com/ca/podcast/engineering-consciousness-part-two/id1844631307?i=1000791259514"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-22",
-   "type": "Article",
-   "title": "Neuropsychoanalysis: Mark Solms and the Science of the Freudian Mind",
-   "src": "Chicago Psychoanalytic Institute · Staff Writer · Educational article",
-   "blurb": "An institute overview of Solms’s neuropsychoanalysis, covering dreaming and REM sleep, affective consciousness, drive theory and possible clinical implications.",
-   "url": "https://chicagoanalysis.org/blog/psychoanalysis/neuropsychoanalysis/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-21",
-   "type": "Article",
-   "title": "The Science behind Solms's Only Cure",
-   "src": "Free Speech Backlash · John Marks · Independent commentary",
-   "blurb": "Psychiatrist John Marks discusses Solms’s rehabilitation of Freud, connecting The Only Cure to neuroscience, thermodynamics, predictive processing and psychiatric practice.",
-   "url": "https://www.freespeechbacklash.com/article/science-behind-solmss-only-cure"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-20",
-   "type": "Podcast",
-   "len": "78 min",
-   "title": "A Cure by Love and Science with Mark Solms",
-   "src": "IPA Off the Couch · Episode 211",
-   "blurb": "Clinical stories connecting neuroscience, psychoanalysis and therapeutic change.",
-   "url": "https://ipaoffthecouch.org/2026/09/20/episode-211-a-cure-by-love-and-science-with-mark-solms-phd-cape-town/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-17",
-   "type": "Article",
-   "title": "Real artificial consciousness is, of course, incompatible with biological naturalism",
-   "src": "Behavioral and Brain Sciences · Invited journal commentary",
-   "blurb": "A scholarly commentary on the tension between biological naturalism and engineering artificial consciousness.",
-   "flag": "External peer review status is unclear",
-   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/real-artificial-consciousness-is-of-course-incompatible-with-biological-naturalism/B3A6CE788EFD4E69B99D770C41052101"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-16",
-   "type": "Podcast",
-   "len": "52 min",
-   "title": "The Problem of Other Minds",
-   "src": "Suspicious Minds · S2E15",
-   "blurb": "Solms lays out his feeling-centered account of consciousness and its connection to dreaming.",
-   "url": "https://podcasts.apple.com/ca/podcast/the-problem-of-other-minds/id1844631307?i=1000790005691"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-14",
-   "type": "Article",
-   "title": "The Hidden Spring. Mark Solms.",
-   "src": "John Sloan’s Reviews · Book review",
-   "blurb": "A critical review of The Hidden Spring questions Solms’s physicalist assumptions and proposed route to artificial consciousness while discussing affect and Friston’s framework.",
-   "url": "https://johnsloanreviews.com/2026/09/14/the-hidden-spring-mark-solms/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-10",
-   "type": "Article",
-   "title": "Freud on the Brain",
-   "src": "TAP · Interview by Lucas McGranahan · Written interview",
-   "blurb": "A written conversation about unconscious memory, psychoanalysis, psychopharmacology and neuroscience. This is the original September 10 publication.",
-   "url": "https://tapmagazine.org/all-articles/freud-on-the-brain"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-04",
-   "type": "Podcast",
-   "len": "52 min",
-   "title": "A new look at Freud and neuroscience",
-   "src": "Blue Dot · North State Public Radio",
-   "blurb": "Dave Schlom interviews Solms about Freud, dreams and The Only Cure.",
-   "url": "https://www.mynspr.org/show/blue-dot/2026-09-04/blue-dot-a-new-look-at-freud-and-neuroscience-with-dr-mark-solms"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-03",
-   "type": "Article",
-   "title": "Neuropsychoanalyse — Vertiefungsbeitrag Teil 2: Mark Solms’ Revision",
-   "src": "Wolfgang Albrecht · German-language professional commentary",
-   "blurb": "A German-language explainer of Solms’s revisions to psychoanalysis, focusing on conscious affect, unconscious cognition, drive theory, predictive processing and free energy.",
-   "url": "https://www.w-a-praxis.de/neuropsychoanalyse-vertiefungsbeitrag-teil-2-mark-solms-revision/"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-03",
-   "type": "Article",
-   "title": "Birth of a Corpse? Part II: The Exchange, Head-On",
-   "src": "Cecil (CJ) John · Medium · Independent commentary",
-   "blurb": "A philosophical critique examines Solms’s view that affective value and subjective feeling are two perspectives on one phenomenon, asking what evidence would justify that identity.",
-   "flag": "Member-only article",
-   "url": "https://cezjah.medium.com/birth-of-a-corpse-part-ii-the-exchange-head-on-046bd575c84b"
-  },
-  {
-   "who": "solms",
-   "date": "2026-09-02",
-   "type": "Article",
-   "title": "Birth of a Corpse? Is AI now conscious?",
-   "src": "Cecil (CJ) John · New Intellectual / Medium · Independent commentary",
-   "blurb": "An independent critique of Solms’s artificial-agent research argues that functional regulation and subjective feeling should be distinguished, leaving the consciousness claim open to further evidence.",
-   "flag": "Member-only article",
-   "url": "https://medium.com/newintellectual/birth-of-a-corpse-is-ai-now-conscious-8b239eef7d6b"
-  },
-  {
-   "who": "solms",
-   "date": "2026-11-12",
-   "type": "Article",
-   "title": "There’s One Thing That Separates Us From Self-Driving Cars. Scientists Are Fighting Over What It Is.",
-   "src": "Popular Mechanics · Darren Orf",
-   "blurb": "Solms’s brainstem account frames reporting on Devor and Baron’s argument that pain and raw sentience originate below the cortex.",
-   "url": "https://www.popularmechanics.com/science/a74391852/ancient-brain-region-conscious/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-12",
-   "type": "Article",
-   "title": "Responding to Joel Dietz (MIT)’s “77.6++%” Defense of Michael Levin’s Biological Causal Platonism and His Demonstrable Misrepresentations of My Actual Argument",
-   "src": "Sweet Rationalism · Nathan Sweet · AI-assisted independent commentary",
-   "blurb": "Sweet disputes Dietz’s audit methods and interpretation, arguing that computational models do not establish Levin’s proposed nonphysical causation.",
-   "flag": "About Levin's ideas",
-   "url": "https://sweetrationalism.com/articles/epistemology/joel-dietz-audit-nathan-sweet-bubble-sort-response/"
-  },
-  {
-   "who": "levin",
-   "date": "2026-11-11",
-   "type": "Article",
-   "title": "Auditing Michael Levin’s Platonism: 88.1% on the Math, 0% on the Ghosts (77.6++% Overall)",
-   "src": "MetaMeditations · Joel Dietz · AI-assisted independent commentary",
-   "blurb": "Dietz evaluates seven claims associated with Levin’s Ingressing Minds, distinguishing computational and biological models from claims about nonphysical causes.",
-   "flag": "About Levin's ideas",
-   "url": "https://metameditations.substack.com/p/auditing-michael-levins-platonism"
-  }
- ]
+  "since": "2026-09-01",
+  "last_checked": "2026-11-13T09:22:33Z",
+  "items": [
+    {
+      "who": "levin",
+      "date": "2026-11-09",
+      "type": "Podcast",
+      "len": "63 min",
+      "title": "The Borderland Between Psi and Neuroscience with Richard Silberstein",
+      "src": "New Thinking Allowed · Richard Silberstein with Jeffrey Mishlove",
+      "blurb": "A closing discussion examines Levin’s bioelectric control of tadpole development, top-down organization and medical implications, alongside Silberstein’s speculative claims about consciousness.",
+      "flag": "Levin does not appear; focused discussion around 55:43–58:26; paranormal extrapolations are speculative, not established by Levin’s experiments",
+      "url": "https://jmishlove.podbean.com/e/the-borderland-between-psi-and-neuroscience-with-richard-silberstein/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-09",
+      "type": "Article",
+      "title": "Douglas Brash’s Chladni Plate Challenge to Michael Levin’s Biological Platonism",
+      "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+      "blurb": "Sweet revisits Brash’s pattern-formation examples and planarian experiments, arguing that Levin’s Platonic interpretation needs predictions distinguishing it from biological and physical explanations.",
+      "flag": "Independent commentary; updated November 10, 2026; not peer reviewed",
+      "url": "https://sweetrationalism.com/articles/biology/bioelectricity-morphogenesis/michael-levin-biological-platonism-chladni-plate-challenge/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-08",
+      "type": "Article",
+      "title": "It Knows When to Stop",
+      "src": "John Rector · Independent philosophical commentary",
+      "blurb": "Rector uses Levin’s work on adaptive morphogenesis and bioelectric memory to develop a speculative analogy between biological target shapes and the development of civilization.",
+      "flag": "Independent commentary; philosophical extrapolation, not a new scientific result",
+      "url": "https://johnrector.me/2026/11/08/it-knows-when-to-stop/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-07",
+      "type": "Article",
+      "title": "Santosh Manicka and Michael Levin Introduce Topoiesis in Collective Morphogenesis",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "Independent commentary on Manicka and Levin’s topoiesis preprint, connecting collective embryo development and group geometry to broader questions about biological boundaries.",
+      "url": "https://theconsciousness.ai/posts/santosh-manicka-michael-levin-topoiesis-collective-morphogenesis-2026/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-07",
+      "type": "Article",
+      "title": "The Unlearned Pattern",
+      "src": "GTCode.com Research · Independent research proposal",
+      "blurb": "A research proposal discusses Levin’s bioelectric-memory studies while distinguishing demonstrated memory within tissues from unestablished claims that learning transfers between isolated systems.",
+      "flag": "Independent proposal; not peer reviewed; updated November 8, 2026; distant-learning transfer is unestablished",
+      "url": "https://gtcode.com/articles/the-unlearned-pattern/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-05",
+      "type": "Article",
+      "title": "Michael Levin Blends Biology With Physics To Conquer Human Disease",
+      "src": "Investor's Business Daily",
+      "blurb": "A profile of Levin’s interdisciplinary research, leadership and ambitions for regenerative medicine, with cautions about the time needed for clinical breakthroughs.",
+      "url": "https://www.investors.com/news/management/leaders-and-success/michael-levin-blends-biology-with-physics-to-conquer-human-disease/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-05",
+      "type": "Article",
+      "title": "Como corvos, plantas e IA desafiam o que sabemos sobre consciência",
+      "src": "UOL · Murilo Garavello · Portuguese-language commentary",
+      "blurb": "A discussion of consciousness examines Levin’s planarian memory and bioelectric experiments, while emphasizing that information processing does not by itself demonstrate subjective experience.",
+      "flag": "Subscriber-only article",
+      "url": "https://www.uol.com.br/vida/colunas/missao-saber/2026/11/05/como-corvos-plantas-e-ia-desafiam-o-que-sabemos-sobre-consciencia.htm"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-04",
+      "type": "Article",
+      "title": "Michael Levin: Memory and intelligence do not require a brain",
+      "src": "Institute of Art and Ideas · Interview by Alasdair Craig",
+      "blurb": "Levin discusses biobots, cellular memory and learning, arguing that biology must look beyond genes and brains to explain purposeful behavior.",
+      "url": "https://iai.tv/articles/michael-levin-memory-and-intelligence-do-not-require-a-brain-auid-3719"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-04",
+      "type": "Preprint",
+      "title": "A topoietic model of collective morphogenesis and compartmentalization",
+      "src": "bioRxiv · Manicka and Levin",
+      "blurb": "A model proposes that signal diffusion and group geometry explain how frog embryos collectively resist developmental stress.",
+      "flag": "Not peer reviewed",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.11.03.763900v1"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-03",
+      "type": "Article",
+      "title": "Interactive MindMap is online",
+      "src": "Michael Levin · Forms of life, forms of mind",
+      "blurb": "Levin introduces an interactive map connecting his work on minds, life and agency, with a glossary and source papers.",
+      "url": "https://thoughtforms.life/interactive-mindmap-is-online/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-03",
+      "type": "Article",
+      "title": "Michael Levin's 'Gut Feeling' Dismissal of Critics, Audited",
+      "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+      "blurb": "Sweet challenges Levin’s handling of AI-assisted criticism and asks for specific, testable responses to objections about Platonic causation.",
+      "flag": "AI-assisted commentary; not peer reviewed",
+      "url": "https://sweetrationalism.com/articles/ontology/michael-levin-nathan-sweet-gut-feeling-dismissal-shield-physicalism-is-false-claim/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-03",
+      "type": "Article",
+      "title": "Michael Levin’s Xenobots: Are They Real? Do They Prove That “Physicalism Is False”?",
+      "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+      "blurb": "Sweet distinguishes xenobot experiments from Levin’s philosophical interpretation, questioning whether the evidence supports nonphysical causation and examining independent replication.",
+      "flag": "AI-assisted commentary; not peer reviewed",
+      "url": "https://sweetrationalism.com/articles/biology/michael-levins-xenobots-are-they-real-do-they-prove-physicalism-false-as-he-claims/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-01",
+      "type": "Podcast",
+      "len": "56 min 23 sec",
+      "title": "Eu Cresc-Podcast- De la Experiență la Inteligență",
+      "src": "Eu Cresc - Podcast · Dana Ilies",
+      "blurb": "Dana Ilies applies Levin’s goal-directed view of intelligence to learning, flexibility and resilience, alongside transformative experience and predictive neuroscience.",
+      "flag": "Romanian-language commentary; discusses Levin’s ideas; Levin does not appear",
+      "url": "https://danailies.substack.com/p/eu-cresc-podcast-de-la-experienta"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-01",
+      "type": "Article",
+      "title": "DNA不是藍圖~ #生物電才是生命底層作業系統 #麥可·萊文Michael Levin 應該要拿到諾貝爾獎的!!",
+      "src": "Vocus · 真師傅 · Traditional Chinese commentary",
+      "blurb": "Traditional Chinese commentary discusses Levin’s bioelectricity and regeneration research and speculates about future Nobel recognition.",
+      "flag": "Independent commentary; not peer reviewed; Nobel recognition claims are speculative",
+      "url": "https://vocus.cc/article/6ae6c585fd89780001bf9458"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-31",
+      "type": "Podcast",
+      "len": "about 35 min",
+      "title": "Thoughts as Thinkers: biology & computer science of inspiration within & without us",
+      "src": "Thoughtforms Life",
+      "blurb": "Levin explores patterns as behavioral policies and asks where unexpected biological competencies and human inspiration originate.",
+      "url": "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-biology-computer-science-of-inspiration-within-without-us-by-michael-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-29",
+      "type": "Article",
+      "title": "Preprint: regrowing a frog's leg shifts gene activity in its brain",
+      "src": "longevitydocs™ News · Research explainer",
+      "blurb": "An explainer of Levin and colleagues’ frog regeneration preprint describes changes in brain gene activity and highlights the small sample and limits on interpreting brain–body signaling.",
+      "url": "https://news.longevitydocs.org/research/xenopus-limb-regeneration-biodome-brain-transcriptome-preprint-2026"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-28",
+      "type": "Podcast",
+      "len": "62 min",
+      "title": "Where Does Genius Come From?",
+      "src": "Human Potential Lab · Scott Barry Kaufman · Episode 2",
+      "blurb": "Levin discusses cellular intelligence, bioelectricity and his speculative Platonic-space account of genius and inspiration with Scott Barry Kaufman.",
+      "url": "https://humanpotential.co/episodes/where-does-genius-come-from/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-28",
+      "type": "Article",
+      "title": "Michael Levin on Bioelectricity and Genius",
+      "src": "Fabulous · Pod · Written podcast digest",
+      "blurb": "A written digest of Levin’s Human Potential Lab interview covers bioelectric coordination, cognitive light cones and his speculative account of genius through Platonic patterns.",
+      "flag": "Summary of the already listed Human Potential Lab episode",
+      "url": "https://www.thefabulous.co/pod/psychology-podcast/michael-levin-on-bioelectricity-and-genius/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-28",
+      "type": "Article",
+      "title": "One Loop, Three Minds (Creatura, Part 2)",
+      "src": "Joche Ojeda · Independent engineering commentary",
+      "blurb": "Ojeda compares software-agent designs inspired by Levin, Joscha Bach and Jordan Peterson, explaining nested goal controllers, shared stress signals and safeguards around model actions.",
+      "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+      "url": "https://jocheojeda.com/2026/10/28/one-loop-three-minds/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-26",
+      "type": "Peer-reviewed paper",
+      "title": "Looking for keys in model organisms: interpreting and keying-up in basal cognition",
+      "src": "History and Philosophy of the Life Sciences · Wiktor Rorot",
+      "blurb": "Rorot examines how Levin’s planarian regeneration experiments become models of cognition, distinguishing useful initial analogies from fully supported inferences across biological systems.",
+      "flag": "Philosophical analysis of Levin’s research; Levin is not an author",
+      "url": "https://link.springer.com/article/10.1007/s40656-026-00776-9"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-25",
+      "type": "Article",
+      "title": "Active Bioelectric Stigmergy and Scale-Free Niche Construction in Pio-Lopez and Levin's 2026 Preprint",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "Independent commentary on how cells and other agents modify their surroundings, considering environmental memory, bioelectric stigmergy and the limits of extending these ideas to consciousness.",
+      "url": "https://theconsciousness.ai/posts/pio-lopez-levin-scale-free-niche-construction-bioelectric-stigmergy-2026/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-24",
+      "type": "Preprint",
+      "title": "Limb-localized induction of regeneration reshapes brain and amputation-site transcriptional states in adult Xenopus laevis",
+      "src": "bioRxiv · Russell, Miller, Kaplan, Levin and Murugan",
+      "blurb": "After a local regenerative treatment, adult frogs show changes in gene activity in both the amputated limb and brain, identifying possible pathways for further brain–body communication research.",
+      "flag": "Not peer reviewed",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.23.761414v1"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-23",
+      "type": "Peer-reviewed paper",
+      "title": "Reservoir Computing for Pattern Recognition and Time‐Series Prediction Based on Nanofluidic Negative Differential Resistance",
+      "src": "International Journal of Intelligent Systems · Portillo, Levin and coauthors",
+      "blurb": "Researchers model computing systems using nanopore electrical behavior for image classification and biologically inspired ion channels for time-series prediction.",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1155/int/4602147"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-23",
+      "type": "Article",
+      "title": "Agents That Defend Goals: What Two Scientists and an Engineer Taught Me About Building Agents",
+      "src": "Joche Ojeda · Independent engineering commentary",
+      "blurb": "Ojeda introduces experiments with software agents inspired by Levin’s goal-directed biology and Bach’s self-models, emphasizing verified outcomes and limits of translating these ideas into engineering.",
+      "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+      "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-23",
+      "type": "Article",
+      "title": "Agents That Defend Goals, Part 1: An agent as a colony of controllers",
+      "src": "Joche Ojeda · Independent engineering commentary",
+      "blurb": "Ojeda translates Levin’s ideas about goal states, stress and plasticity into a software-agent design with nested controllers, then examines its behavior when tools fail.",
+      "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+      "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals-01-the-levin-colony/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-23",
+      "type": "Article",
+      "title": "Agents That Defend Goals, Part 3: One error channel at two altitudes",
+      "src": "Joche Ojeda · Independent engineering commentary",
+      "blurb": "Ojeda combines Levin-inspired goal regulation with Bach-inspired self-models, exploring how error signals, autonomy limits and human approval can guide a hybrid software agent.",
+      "flag": "Independent engineering interpretation; not Levin-authored or peer-reviewed research",
+      "url": "https://jocheojeda.com/2026/10/23/agents-that-defend-goals-03-the-hybrid/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-20",
+      "type": "Podcast",
+      "len": "88 min",
+      "title": "Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space",
+      "src": "632nm · Episode 64",
+      "blurb": "Levin discusses unconventional intelligence, learning in gene networks, bioelectricity and his speculative Platonic-space account of where novel biological competencies originate.",
+      "url": "https://632nm.com/episodes/where-does-intelligence-live-michael-levin-on-evolution-ai-and-platonic-space"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-17",
+      "type": "Podcast",
+      "len": "about 39 min",
+      "title": "\"New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)",
+      "src": "Thoughtforms Life",
+      "blurb": "Levin discusses experimental systems for studying unfamiliar minds, his Platonic Space proposal and cautious perspectives on consciousness.",
+      "url": "https://thoughtforms-life.aipodcast.ing/new-bodies-unconventional-minds-a-continuum-of-cognition-consciousness-by-michael-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-17",
+      "type": "Article",
+      "title": "Large Language Models as a Cognitive Virus in Solé and Levin's Model",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "Independent commentary examines Solé and Levin’s theoretical model of language-model dependence, highlighting proposed tipping points and ways to preserve autonomous human cognition.",
+      "flag": "Discusses a theoretical preprint; not empirical evidence of user outcomes",
+      "url": "https://theconsciousness.ai/posts/sole-levin-large-language-models-cognitive-virus-2026/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-16",
+      "type": "Preprint",
+      "title": "Goal directed closed-loop training of network bursts in cortical cultures produces improved performance and error correction over days",
+      "src": "bioRxiv · Levin and coauthors",
+      "blurb": "Cultured rat neurons learn to initiate activity on a target side and recover from errors more reliably across days of training.",
+      "flag": "Not peer reviewed",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759184v1"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-16",
+      "type": "Podcast",
+      "len": "about 35 min",
+      "title": "\"Thoughts as Thinkers: the biology & computer science of inspiration\"",
+      "src": "Thoughtforms Life",
+      "blurb": "A conference talk explores inspiration, xenobots and the origins of competencies in newly created living systems.",
+      "url": "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-the-biology-computer-science-of-inspiration-by-michael-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-15",
+      "type": "Article",
+      "title": "When Thoughts Become Thinkers",
+      "src": "AkashicNET · Independent research commentary",
+      "blurb": "A conference follow-up connects Levin’s work on patterns, cellular learning and unconventional minds to proposed experiments, separating research findings from philosophical speculation.",
+      "flag": "Human-directed, AI-assisted commentary; not peer reviewed",
+      "url": "https://akashicnet.org/tsc2026/michael-levin"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-11",
+      "type": "Podcast",
+      "len": "about 64 min",
+      "title": "\"Mind-Body Interface: an experimental and Clinical Perspective\" by Michael Levin and Karina Kofman",
+      "src": "Thoughtforms Life",
+      "blurb": "Levin and Karina Kofman discuss experimental biology, unusual clinical cases and the relationship between minds and their physical embodiments.",
+      "url": "https://thoughtforms-life.aipodcast.ing/mind-body-interface-an-experimental-and-clinical-perspective-by-michael-levin-and-karina-kofman/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-09",
+      "type": "Podcast",
+      "len": "about 60 min",
+      "title": "\"Neuroscience Beyond Neurons: communicating with unconventional minds\"",
+      "src": "Thoughtforms Life",
+      "blurb": "Levin uses morphogenesis and non-neural cells to explore collective intelligence and behavioral experiments with unconventional cognitive agents.",
+      "url": "https://thoughtforms-life.aipodcast.ing/neuroscience-beyond-neurons-communicating-with-unconventional-minds-by-michael-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-06",
+      "type": "Article",
+      "title": "Biologist Michael Levin Evidence and Scholarly Criticism Index",
+      "src": "Sweet Rationalism · Nathan Sweet · Independent commentary",
+      "blurb": "An annotated index examines evidence and criticism of Levin’s bioelectricity research, cognitive terminology and Platonic claims, separating experimental results from broader interpretations.",
+      "flag": "Independent commentary; not peer reviewed",
+      "url": "https://sweetrationalism.com/articles/biology/michael-levin-science-or-pseudoscience-criticism-index/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-05",
+      "type": "Article",
+      "title": "The Mind Beyond the Brain: Michael Levin and the Ingressing of Consciousness",
+      "src": "Recipe for Life · Geoff Kaile · Independent philosophical commentary",
+      "blurb": "Kaile compares Levin’s ingressing-minds proposal with Plato and Merleau-Ponty, then extends these philosophical ideas to embodiment, empathy and psychological experience.",
+      "flag": "Independent philosophical commentary; therapeutic implications are speculative, not established clinical evidence",
+      "url": "https://recipe4.life/blog/levin-ingressing"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-04",
+      "type": "Article",
+      "title": "The Electrical Blueprint of the Body",
+      "src": "The Brutal Truth · Independent commentary",
+      "blurb": "An independent overview of Levin’s bioelectricity research discusses anatomical memory, gene activity and frog regeneration, distinguishing existing animal experiments from speculative implications for future medicine.",
+      "flag": "Independent commentary; not peer reviewed",
+      "url": "https://1hebrutaltruth1.substack.com/p/the-electrical-blueprint-of-the-body"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-03",
+      "type": "Article",
+      "title": "Religion With A Pipette: Is Michael Levin’s ‘Ingressing Minds’ Pseudoscience? A Scholarly Analysis",
+      "src": "Sweet Rationalism · Nathan Sweet · Independent criticism",
+      "blurb": "Sweet questions whether Levin’s Platonic interpretation makes testable predictions beyond existing biological explanations, separating experimental findings from broader metaphysical claims.",
+      "flag": "Independent commentary; computationally assisted; updated November 5, 2026; not peer reviewed",
+      "url": "https://sweetrationalism.com/articles/metaphysics/religion-with-a-pipette-is-michael-levins-ingressing-minds-pseudoscience-a-scholarly-analysis/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-10-01",
+      "type": "Article",
+      "title": "Scientists Found a “Third State” Of Being Between Life and Death",
+      "src": "Gadget Review · Rex Edison",
+      "blurb": "Reports on xenobots and anthrobots, explaining Levin’s basal-cognition view while distinguishing cellular self-organization from unproven claims of subjective consciousness.",
+      "flag": "Reports earlier research; cellular consciousness remains unestablished",
+      "url": "https://www.gadgetreview.com/scientists-found-a-third-state-of-being-between-life-and-death"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-30",
+      "type": "Preprint",
+      "title": "Toward Controlling Biology with Language:Offline Learning of Prompt-Conditioned Interventions for Cells, Organoids, and Biobots",
+      "src": "arXiv · Le, Blackiston, Levin and Bongard",
+      "blurb": "An offline learning system maps language instructions to recorded xenobot interventions; whether predicted interventions work in new live experiments remains untested.",
+      "flag": "Not peer reviewed",
+      "url": "https://arxiv.org/abs/2610.02247"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-29",
+      "type": "Podcast",
+      "len": "84 min",
+      "title": "Meet The Physicist Proving The Universe Builds Itself Out Of Information",
+      "src": "Giants Shoulder · with Gordana Dodig-Crnkovic",
+      "blurb": "Gordana Dodig-Crnkovic compares her account of cognition and consciousness with Levin’s ideas, discussing cellular awareness, xenobots and whether gene networks think.",
+      "flag": "About Levin's ideas; Levin does not appear",
+      "url": "https://www.thegiantsshoulder.com/episodes/meet-the-physicist-proving-the-universe-builds-itself-out-of-information"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-28",
+      "type": "Article",
+      "title": "Import AI 474: Platonic mindspace",
+      "src": "Jack Clark · Import AI",
+      "blurb": "A close look at Ingressing Minds: patterns embodied in biological and engineered systems, and the experiments still needed to test the idea.",
+      "url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-28",
+      "type": "Podcast",
+      "len": "85 min",
+      "title": "No. 1 Biopsychist: Michael Levin’s Platonic Minds & Cognition All The Way Down",
+      "src": "Giants Shoulder · Episode 159 · with John Vervaeke",
+      "blurb": "Guest John Vervaeke discusses Levin’s cognitive light cone, Platonic minds and cognition across living systems.",
+      "flag": "About Levin's ideas; Levin does not appear",
+      "url": "https://podcasts.apple.com/nz/podcast/159-no-1-biopsychist-michael-levins-platonic-minds/id1752486249?i=1000792051293"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-27",
+      "type": "Article",
+      "title": "Ingressing minds: where evidence ends and ontology begins",
+      "src": "AkashicOMNI × AkashicNET · Independent commentary",
+      "blurb": "An independent review separates Levin’s experimental examples from his Platonic interpretation and proposes comparative tests to distinguish that account from physical models.",
+      "flag": "AI-assisted independent commentary; not peer reviewed; no new experiments",
+      "url": "https://akashicnet.org/akashicomni/ingressing-minds-review"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-25",
+      "type": "Preprint",
+      "title": "Computational Framework for Identifying Ion Channel Mutation-Compensating Interventions",
+      "src": "bioRxiv · Hazan and Levin",
+      "blurb": "Computational models identify ways to compensate for faulty ion channels by adjusting other channels rather than directly modifying the mutated one.",
+      "flag": "Not peer reviewed",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.20.753002v1"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-24",
+      "type": "Preprint",
+      "title": "On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation",
+      "src": "arXiv · Levin and coauthors",
+      "blurb": "Neural cellular automata and low-rank adaptations as reusable controls for changing morphology.",
+      "flag": "Not peer reviewed",
+      "url": "https://arxiv.org/abs/2609.29755"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-24",
+      "type": "Podcast",
+      "len": "105 min",
+      "title": "Meet The Evolutionary Theorist Redefining Intelligence With Michael Levin",
+      "src": "Giants Shoulder · Episode 158 · with Richard Watson",
+      "blurb": "Guest Richard Watson discusses his Natural Induction work with Levin, learning without neurons and cognitive approaches to biology and medicine.",
+      "flag": "About Levin's ideas; Levin does not appear",
+      "url": "https://podcasts.apple.com/nz/podcast/158-meet-the-evolutionary-theorist-redefining/id1752486249?i=1000791491919"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-24",
+      "type": "Podcast",
+      "len": "about 63 min",
+      "title": "Discussion with Marsha Hewitt (Platonic Space and related ideas)",
+      "src": "Thoughtforms Life",
+      "blurb": "Levin and Marsha Hewitt discuss Platonic Space, embodied minds and connections between experimental biology, philosophy and the psychology of religion.",
+      "url": "https://thoughtforms-life.aipodcast.ing/discussion-with-marsha-hewitt-platonic-space-and-related-ideas/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-22",
+      "type": "Podcast",
+      "len": "about 21 min",
+      "title": "\"Life, Machines, and a Foundation for Synthbiosis\"",
+      "src": "Thoughtforms Life",
+      "blurb": "A Santa Fe Institute talk explores embodied minds, cellular goals and mutually beneficial relationships among biological, artificial and hybrid beings.",
+      "url": "https://thoughtforms-life.aipodcast.ing/life-machines-and-a-foundation-for-synthbiosis-by-michael-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-21",
+      "type": "Podcast",
+      "len": "56 min",
+      "title": "Bioelectricity, Aging, and the Future of Medicine",
+      "src": "The Arjun Khemani Podcast",
+      "blurb": "Regeneration, bioelectric memory and hypotheses about aging, with a view toward possible future medicine.",
+      "url": "https://www.arjunkhemani.com/p/michael-levin-bioelectricity-aging"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-21",
+      "type": "Podcast",
+      "len": "53 min",
+      "title": "Biology, AI, and Diverse Intelligence",
+      "src": "Thoughtforms Life",
+      "blurb": "Levin introduces diverse intelligence and explains what cellular cognition, bioelectricity and novel organisms can contribute to discussions about artificial intelligence.",
+      "url": "https://thoughtforms-life.aipodcast.ing/biology-ai-and-diverse-intelligence-by-michael-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-18",
+      "type": "Preprint",
+      "title": "A Closed-Loop Robot Scientist for Autonomous Biological Discovery",
+      "src": "bioRxiv · Bielawski, Levin and coauthors",
+      "blurb": "MOMbot combines automated physical interventions, imaging and active learning to investigate embryos, motile organoids and cells, including an electrical stimulus–response relationship.",
+      "flag": "Not peer reviewed",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.11.751076v1"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-17",
+      "type": "Article",
+      "title": "Diverse intelligence: An essential field for questions of AI and consciousness",
+      "src": "Behavioral and Brain Sciences · Invited journal commentary",
+      "blurb": "Levin argues that diverse intelligence research complicates attempts to limit consciousness to particular biological or artificial substrates, responding to Anil Seth.",
+      "flag": "External peer review status is unclear",
+      "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/diverse-intelligence-an-essential-field-for-questions-of-ai-and-consciousness/5D335CB2EE96EE99AD3E49413FAB7B40"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-17",
+      "type": "Podcast",
+      "len": "38 min",
+      "title": "Ingressing Minds and the Latent Space of Patterns: Your Code Is an Intelligence Antenna",
+      "src": "Neural intel Pod · AI-narrated analysis",
+      "blurb": "AI-narrated discussion of Levin’s Ingressing Minds framework, bioelectric pattern memory, xenobots and polycomputing. It explores speculative implications for artificial intelligence.",
+      "flag": "About Levin's ideas; Levin does not appear",
+      "url": "https://creators.spotify.com/pod/profile/neuralintelpod/episodes/Ingressing-Minds-and-the-Latent-Space-of-Patterns-Your-Code-Is-an-Intelligence-Antenna-e3p0hon"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-15",
+      "type": "Article",
+      "title": "Where New Forms Come From",
+      "src": "Woolf Software · Independent commentary",
+      "blurb": "An extended analysis of Ingressing Minds, its experimental foundations and philosophical objections, with connections to de-extinction and computational biology.",
+      "url": "https://www.woolfsoftware.bio/blog/where-new-forms-come-from/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-13",
+      "type": "Podcast",
+      "len": "about 59 min",
+      "title": "The evolution of language and brain development",
+      "src": "Thoughtforms Life · with Andrey Vyshedskiy",
+      "blurb": "Language evolution, sensitive periods in brain development and future intelligence. A research discussion.",
+      "url": "https://thoughtforms-life.aipodcast.ing/a-conversation-with-andrey-vyshedskiy-about-the-evolution-of-language-and-brain-development/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-11",
+      "type": "Article",
+      "title": "Michael Levin is the most interesting person alive",
+      "src": "Front Stage Exit · Brady Dale · Independent commentary",
+      "blurb": "Dale explores Levin’s Ingressing Minds proposal and its possible implications for intelligence, arguing enthusiastically for the value of investigating unfamiliar forms of cognition.",
+      "flag": "Independent philosophical commentary; speculative interpretation, not a new scientific result",
+      "url": "https://www.frontstageexit.com/p/michael-levin-is-the-most-interesting"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-10",
+      "type": "Podcast",
+      "len": "58 min",
+      "title": "Bioelectricity, Collective Intelligence & Regeneration",
+      "src": "Wandering Thoughts",
+      "blurb": "How cells coordinate bodies, with discussions of regeneration, xenobots, anthrobots and aging.",
+      "url": "https://podcasts.apple.com/au/podcast/bioelectricity-collective-intelligence-regeneration/id1866596406?i=1000788956994"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-10",
+      "type": "Article",
+      "title": "Your Brain Doesn’t Produce Your Mind — It Just Tunes Into It",
+      "src": "imbaresearchlabs · Medium · Independent commentary",
+      "blurb": "An independent summary of Levin’s Ingressing Minds discusses Platonic patterns, bioelectric memory, synthetic organisms and ethical implications of unfamiliar minds.",
+      "flag": "Independent commentary on a speculative framework; not evidence that the brain receives consciousness",
+      "url": "https://imbamotionlabs.medium.com/your-brain-doesnt-produce-your-mind-it-just-tunes-into-it-eef25e185a1b"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-10",
+      "type": "Article",
+      "title": "Michael Levin made me believe in gods",
+      "src": "Unpublishable Papers · Eli Stark-Elster · Independent commentary",
+      "blurb": "Stark-Elster interprets Levin’s Ingressing Minds proposal, extending it into speculative claims about altered states and perceived entities that the cited biological research does not establish.",
+      "flag": "Independent philosophical speculation; claims about psychedelic entities are not established findings",
+      "url": "https://unpublishablepapers.substack.com/p/michael-levin-made-me-believe-in"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-09",
+      "type": "Peer-reviewed paper",
+      "title": "Ingressing Minds",
+      "src": "Philosophies · Published version · Theoretical journal paper",
+      "blurb": "A theoretical proposal connecting synthetic morphology and diverse intelligence with a structured space of patterns. A speculative framework rather than an established finding.",
+      "url": "https://www.mdpi.com/2409-9287/11/5/161"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-09",
+      "type": "Article",
+      "title": "Do we create minds, or give them bodies? Michael Levin’s proposal",
+      "src": "Alien News · Avi Moas and Orion · AI-assisted article",
+      "blurb": "An AI-assisted explainer of Levin’s proposed space of patterns, distinguishing the speculative framework from biological experiments and considering implications for artificial intelligence.",
+      "url": "https://aliennews.co.il/en/articles/michael-levin-ingressing-minds-ai"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-08",
+      "type": "Article",
+      "title": "Slime moulds and the debate over intelligence",
+      "src": "Samanth Subramanian · The Guardian",
+      "blurb": "Includes Levin’s perspective on cognition beyond brains.",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-05",
+      "type": "Article",
+      "title": "Michael Levin's Bioelectric Memory Research From Planaria to Xenobots",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "An overview connects planarian memory after regeneration to synthetic living constructs, distinguishing evidence of persistent information from claims about subjective experience.",
+      "url": "https://theconsciousness.ai/posts/levin-bioelectric-memory-planaria-xenobots-2026/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-03",
+      "type": "Podcast",
+      "len": "about 59 min",
+      "title": "How information moves levels in bodies",
+      "src": "Thoughtforms Life · Diego Bohórquez & Mijail D. Serruya",
+      "blurb": "Gut–brain biology, neural interfaces and communication from molecules to behavior.",
+      "url": "https://thoughtforms-life.aipodcast.ing/conversation-1-with-diego-bohorquez-and-mijail-d-serruya-how-information-moves-levels-in-bodies/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-03",
+      "type": "Preprint",
+      "title": "Large-Language Models as a Cognitive Virus",
+      "src": "arXiv · Solé, Levin and coauthors",
+      "blurb": "A theoretical population model explores possible tipping points in language-model dependence and cognitive autonomy, including conditions intended to preserve independent cognition.",
+      "flag": "Not peer reviewed",
+      "url": "https://arxiv.org/abs/2609.03344"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-03",
+      "type": "Preprint",
+      "title": "Membrane voltage and connexin expression work together to enhance tumor growth and metastasis in cancer",
+      "src": "bioRxiv · Grodstein, Mathews and Levin",
+      "blurb": "A computational model examines how membrane voltage and connexin expression jointly regulate communication between tumor cells and healthy neighbors during growth and invasion.",
+      "flag": "Not peer reviewed",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748840v1"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-03",
+      "type": "Preprint",
+      "title": "Living multicellular systems induce decodable spatial patterns in bacterial collectives",
+      "src": "bioRxiv · Sergeeva, Levin and coauthors",
+      "blurb": "Bacterial collectives form spatial patterns around frog embryos and xenobots. Machine learning identifies signatures distinguishing the nearby living targets, suggesting distributed environmental sensing.",
+      "flag": "Not peer reviewed",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748853v1"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-03",
+      "type": "Article",
+      "title": "Bioelectricity, Marching on...",
+      "src": "Bioelectricity · Djamgoz, Levin and Merla · Editorial",
+      "blurb": "Levin and fellow editors review recent bioelectricity research, including microbial energy, electrical stimulation for regeneration, cancer-cell voltage dynamics and emerging preprints.",
+      "flag": "Journal editorial; external peer review not established",
+      "url": "https://journals.sagepub.com/doi/10.1177/25763113261484675"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-01",
+      "type": "Article",
+      "title": "Causal Emergence Appears Before Self-Replicators in Catalytic Networks",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "Commentary on Pigozzi and Levin’s catalytic-network model explores whether integrated causal organization can precede self-replication, while considering speculative implications for agency.",
+      "flag": "Discusses a computational preprint; not peer reviewed",
+      "url": "https://theconsciousness.ai/posts/causal-emergence-before-self-replicators-gard-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-01",
+      "type": "Article",
+      "title": "Intelligence From Learnable Novelty and the Free Energy Principle",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "Commentary examines Zhang and Levin’s proposal to distinguish learnable surprise from noise, discussing exploration, intrinsic motivation and connections to predictive processing.",
+      "flag": "Discusses a computational preprint; not peer reviewed",
+      "url": "https://theconsciousness.ai/posts/intelligence-from-learnable-novelty-levin/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-09-01",
+      "type": "Article",
+      "title": "Limbomorphs and Whether Agency Can Emerge Without Rules",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "An analysis of Alvarez and Levin’s limbomorphs asks whether evolved animated patterns demonstrate goal-directed behavior or merely resemble agents.",
+      "flag": "Independent commentary; agency interpretation remains unresolved",
+      "url": "https://theconsciousness.ai/posts/limbomorphs-agent-like-dynamics-levin-2026/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-11-09",
+      "type": "Article",
+      "title": "Where is sentience, and what’s it for?",
+      "src": "Conscium · Calum Chace · Debate commentary",
+      "blurb": "Calum Chace compares Solms’s and Humphrey’s accounts of sentience, examining brainstem versus cortical origins, competing needs, empathy, and implications for conscious AI.",
+      "flag": "Commentary; article byline dated November 9, 2026, while the blog index lists November 10",
+      "url": "https://conscium.com/en/blog/where-is-sentience-and-whats-it-for"
+    },
+    {
+      "who": "solms",
+      "date": "2026-11-09",
+      "type": "Article",
+      "title": "The Performance of Empathy Isn't Empathy",
+      "src": "Velocity Meter · Avi Savar · Editorial podcast digest",
+      "blurb": "A multi-podcast digest contrasts simulated empathy with genuine feeling, drawing on Solms’s brainstem account of consciousness and its implications for artificial sentience.",
+      "flag": "Editorial synthesis; discusses the already listed Theories of Everything episode",
+      "url": "https://www.velocitymeter.com/sherry-turkle-says-ai-empathy-is-a-category-error/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-11-09",
+      "type": "Article",
+      "title": "The Appetite for Uncertainty",
+      "src": "Giulia’s Substack · GYBP · Personal essay",
+      "blurb": "A personal essay applies Solms’s idea of felt uncertainty to dining, arguing that advance expectations can crowd out surprise and attentive engagement.",
+      "flag": "Personal application of Solms’s ideas; not scientific evidence",
+      "url": "https://giuliabp.substack.com/p/the-appetite-for-uncertainty"
+    },
+    {
+      "who": "solms",
+      "date": "2026-11-08",
+      "type": "Podcast",
+      "len": "46 min 31 sec",
+      "title": "Where Consciousness Begins: Dr. Mark Solms on Emotion and the Feeling Brain",
+      "src": "The Circle Of Insight · Dr. Carlos",
+      "blurb": "Solms explains his view that consciousness begins with feelings generated in the brainstem, linking emotion, survival and decision-making to neuroscience and psychoanalysis.",
+      "url": "https://www.spreaker.com/episode/where-consciousness-begins-dr-mark-solms-on-emotion-and-the-feeling-brain--76239105"
+    },
+    {
+      "who": "solms",
+      "date": "2026-11-08",
+      "type": "Article",
+      "title": "Bewustzijn zit niet in de hersenschors",
+      "src": "GoodFeeling · Nick Haenen · Dutch-language commentary",
+      "blurb": "A Dutch overview explains Solms’s brainstem-centered account of consciousness, linking affect, dreams and homeostasis while outlining evidence and objections.",
+      "flag": "Secondary commentary; not a new interview or research paper",
+      "url": "https://goodfeeling.nl/bewustzijn-hersenstam/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-11-03",
+      "type": "Preprint",
+      "title": "Birth of a Corpse? Affective Consciousness, Perspectival Identity, and the Unbridged Gap in Artificial Feeling",
+      "src": "Zenodo · Cézjah (Cecil John), New Intellectual LLC · Working paper",
+      "blurb": "Critiques Solms’s artificial-consciousness model, arguing that functional affective regulation does not establish subjective feeling without defending the metaphysical identity between objective value and lived experience.",
+      "flag": "Working paper; peer review not indicated; develops the exchange discussed in the September Medium articles",
+      "url": "https://zenodo.org/records/23933067"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-28",
+      "type": "Podcast",
+      "len": "104 min",
+      "title": "Mark Solms: Consciousness Isn't in the Cortex",
+      "src": "Theories of Everything · Curt Jaimungal",
+      "blurb": "Solms explains why he locates consciousness in brainstem feeling, connecting dreams, neuropsychoanalysis, artificial agents, and the hard problem.",
+      "url": "https://curtjaimungal.substack.com/p/consciousness-isnt-in-the-cortex"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-19",
+      "type": "Article",
+      "title": "Neuropsycholoog Mark Solms: ‘We begrijpen de menselijke geest verkeerd’",
+      "src": "Filosofie Magazine · Annette van der Elst · Dutch-language interview",
+      "blurb": "In this Dutch interview, Solms argues that subjective experience must remain central to understanding the mind, rather than reducing psychology to observable brain processes.",
+      "url": "https://www.filosofie.nl/neuropsycholoog-mark-solms-we-begrijpen-de-menselijke-geest-verkeerd/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-19",
+      "type": "Article",
+      "title": "The Only Cure: Freud and the neuroscience of mental healing",
+      "src": "Therapy Today · Lizzie Stone · Book review · November issue",
+      "blurb": "A trainee psychotherapist reviews Solms’s defence of psychoanalysis, praising its clinical stories while questioning some evidence claims and noting challenging neuroscience.",
+      "flag": "Date is the issue’s publication date; BACP account may be required",
+      "url": "https://www.bacp.co.uk/media/26950/bacp-therapy-today-november-2026.pdf"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-17",
+      "type": "Article",
+      "title": "Mark Solms and Ryan Smith Test Two Routes to Interoceptive Prioritisation",
+      "src": "The Consciousness AI · Independent commentary",
+      "blurb": "Independent commentary connects Solms and colleagues’ active-inference study of competing bodily needs to affective consciousness and artificial-agent design.",
+      "flag": "Independent commentary; cited paper title, author list and posting date differ from the linked arXiv record",
+      "url": "https://theconsciousness.ai/posts/mark-solms-interoceptive-prioritisation-active-inference-2026/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-13",
+      "type": "Peer-reviewed paper",
+      "title": "Two Routes to Interoceptive Prioritisation: Dissociating Likelihood Precision and Preference Reweighting in Active Inference",
+      "src": "IWAI 2026 · Accepted manuscript on arXiv · Proceedings forthcoming",
+      "blurb": "Solms and colleagues compare two ways artificial agents prioritize bodily needs, finding different effects on survival, perception, and learning an internal body model.",
+      "url": "https://arxiv.org/abs/2610.18617"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-09",
+      "type": "Article",
+      "title": "Neuroscience Has Not Vindicated Freud’s Unconscious",
+      "src": "Unorthodox Psychotherapist · Substack · Independent commentary",
+      "blurb": "A critique of Solms’s The Only Cure distinguishes unconscious learning and nondeclarative memory from Freud’s repression, questioning whether modern translations validate the original concepts.",
+      "url": "https://thehumanconditionrevisited.substack.com/p/neuroscience-has-not-vindicated-freuds"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-02",
+      "type": "Podcast",
+      "len": "56 min",
+      "title": "Freud to Luria to modern neuroscience: Mark Solms on the (successful) project for a scientific psychology",
+      "src": "PhilosophyPodcasts.Org",
+      "blurb": "Solms discusses Freud’s scientific psychology and its connections to Luria and contemporary neuroscience, drawing on The Only Cure.",
+      "url": "https://podcasts.apple.com/ie/podcast/freud-to-luria-to-modern-neuroscience-mark-solms-on/id1633703229?i=1000792908016"
+    },
+    {
+      "who": "solms",
+      "date": "2026-10-01",
+      "type": "Article",
+      "title": "The Only Cure?",
+      "src": "Cognitive Wonderland · Tommy Blanchard · Book review",
+      "blurb": "Blanchard reviews Solms’s revised Freudian framework and questions whether the evidence supports giving psychoanalysis special standing among therapies.",
+      "flag": "Subscriber article; preview available",
+      "url": "https://cognitivewonderland.substack.com/p/the-only-cure"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-30",
+      "type": "Podcast",
+      "len": "74 min",
+      "title": "A Great Loss to the Universe (Part Three)",
+      "src": "Suspicious Minds: AI and the Apocalypse",
+      "blurb": "Solms joins David Benatar and other guests to discuss the ethics of creating artificial consciousness, including possible suffering and his reasons for pursuing the work.",
+      "url": "https://art19.com/shows/suspicious-minds/episodes/8af77682-a53d-4a24-a5b6-28d3d765e07d"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-29",
+      "type": "Podcast",
+      "len": "31 min",
+      "title": "What Freud Got Right About the Mind",
+      "src": "The Next Big Idea Daily",
+      "blurb": "Solms on Freud, unconscious memory, emotional needs and talking therapy. The episode also features Paul Conti.",
+      "url": "https://podcasts.apple.com/in/podcast/what-freud-got-right-about-the-mind/id1666681752?i=1000792154913"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-28",
+      "type": "Podcast",
+      "len": "123 min",
+      "title": "What Humans, Animals & Plants Tell Us About Consciousness | Michael Pollan",
+      "src": "Huberman Lab · Michael Pollan with Andrew Huberman",
+      "blurb": "Michael Pollan and Andrew Huberman discuss Solms’s brainstem-centered account of consciousness and the role of homeostatic feelings.",
+      "flag": "About Solms's ideas; Solms does not appear",
+      "url": "https://www.hubermanlab.com/episode/what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-23",
+      "type": "Podcast",
+      "len": "71 min",
+      "title": "Engineering Consciousness (Part Two)",
+      "src": "Suspicious Minds",
+      "blurb": "Solms discusses artificial-agent research and how to test a feeling-centered account of consciousness.",
+      "url": "https://podcasts.apple.com/ca/podcast/engineering-consciousness-part-two/id1844631307?i=1000791259514"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-22",
+      "type": "Article",
+      "title": "Neuropsychoanalysis: Mark Solms and the Science of the Freudian Mind",
+      "src": "Chicago Psychoanalytic Institute · Staff Writer · Educational article",
+      "blurb": "An institute overview of Solms’s neuropsychoanalysis, covering dreaming and REM sleep, affective consciousness, drive theory and possible clinical implications.",
+      "url": "https://chicagoanalysis.org/blog/psychoanalysis/neuropsychoanalysis/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-21",
+      "type": "Article",
+      "title": "The Science behind Solms's Only Cure",
+      "src": "Free Speech Backlash · John Marks · Independent commentary",
+      "blurb": "Psychiatrist John Marks discusses Solms’s rehabilitation of Freud, connecting The Only Cure to neuroscience, thermodynamics, predictive processing and psychiatric practice.",
+      "url": "https://www.freespeechbacklash.com/article/science-behind-solmss-only-cure"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-20",
+      "type": "Podcast",
+      "len": "78 min",
+      "title": "A Cure by Love and Science with Mark Solms",
+      "src": "IPA Off the Couch · Episode 211",
+      "blurb": "Clinical stories connecting neuroscience, psychoanalysis and therapeutic change.",
+      "url": "https://ipaoffthecouch.org/2026/09/20/episode-211-a-cure-by-love-and-science-with-mark-solms-phd-cape-town/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-17",
+      "type": "Article",
+      "title": "Real artificial consciousness is, of course, incompatible with biological naturalism",
+      "src": "Behavioral and Brain Sciences · Invited journal commentary",
+      "blurb": "A scholarly commentary on the tension between biological naturalism and engineering artificial consciousness.",
+      "flag": "External peer review status is unclear",
+      "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/real-artificial-consciousness-is-of-course-incompatible-with-biological-naturalism/B3A6CE788EFD4E69B99D770C41052101"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-16",
+      "type": "Podcast",
+      "len": "52 min",
+      "title": "The Problem of Other Minds",
+      "src": "Suspicious Minds · S2E15",
+      "blurb": "Solms lays out his feeling-centered account of consciousness and its connection to dreaming.",
+      "url": "https://podcasts.apple.com/ca/podcast/the-problem-of-other-minds/id1844631307?i=1000790005691"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-14",
+      "type": "Article",
+      "title": "The Hidden Spring. Mark Solms.",
+      "src": "John Sloan’s Reviews · Book review",
+      "blurb": "A critical review of The Hidden Spring questions Solms’s physicalist assumptions and proposed route to artificial consciousness while discussing affect and Friston’s framework.",
+      "url": "https://johnsloanreviews.com/2026/09/14/the-hidden-spring-mark-solms/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-10",
+      "type": "Article",
+      "title": "Freud on the Brain",
+      "src": "TAP · Interview by Lucas McGranahan · Written interview",
+      "blurb": "A written conversation about unconscious memory, psychoanalysis, psychopharmacology and neuroscience. This is the original September 10 publication.",
+      "url": "https://tapmagazine.org/all-articles/freud-on-the-brain"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-04",
+      "type": "Podcast",
+      "len": "52 min",
+      "title": "A new look at Freud and neuroscience",
+      "src": "Blue Dot · North State Public Radio",
+      "blurb": "Dave Schlom interviews Solms about Freud, dreams and The Only Cure.",
+      "url": "https://www.mynspr.org/show/blue-dot/2026-09-04/blue-dot-a-new-look-at-freud-and-neuroscience-with-dr-mark-solms"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-03",
+      "type": "Article",
+      "title": "Neuropsychoanalyse — Vertiefungsbeitrag Teil 2: Mark Solms’ Revision",
+      "src": "Wolfgang Albrecht · German-language professional commentary",
+      "blurb": "A German-language explainer of Solms’s revisions to psychoanalysis, focusing on conscious affect, unconscious cognition, drive theory, predictive processing and free energy.",
+      "url": "https://www.w-a-praxis.de/neuropsychoanalyse-vertiefungsbeitrag-teil-2-mark-solms-revision/"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-03",
+      "type": "Article",
+      "title": "Birth of a Corpse? Part II: The Exchange, Head-On",
+      "src": "Cecil (CJ) John · Medium · Independent commentary",
+      "blurb": "A philosophical critique examines Solms’s view that affective value and subjective feeling are two perspectives on one phenomenon, asking what evidence would justify that identity.",
+      "flag": "Member-only article",
+      "url": "https://cezjah.medium.com/birth-of-a-corpse-part-ii-the-exchange-head-on-046bd575c84b"
+    },
+    {
+      "who": "solms",
+      "date": "2026-09-02",
+      "type": "Article",
+      "title": "Birth of a Corpse? Is AI now conscious?",
+      "src": "Cecil (CJ) John · New Intellectual / Medium · Independent commentary",
+      "blurb": "An independent critique of Solms’s artificial-agent research argues that functional regulation and subjective feeling should be distinguished, leaving the consciousness claim open to further evidence.",
+      "flag": "Member-only article",
+      "url": "https://medium.com/newintellectual/birth-of-a-corpse-is-ai-now-conscious-8b239eef7d6b"
+    },
+    {
+      "who": "solms",
+      "date": "2026-11-12",
+      "type": "Article",
+      "title": "There’s One Thing That Separates Us From Self-Driving Cars. Scientists Are Fighting Over What It Is.",
+      "src": "Popular Mechanics · Darren Orf",
+      "blurb": "Solms’s brainstem account frames reporting on Devor and Baron’s argument that pain and raw sentience originate below the cortex.",
+      "url": "https://www.popularmechanics.com/science/a74391852/ancient-brain-region-conscious/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-12",
+      "type": "Article",
+      "title": "Responding to Joel Dietz (MIT)’s “77.6++%” Defense of Michael Levin’s Biological Causal Platonism and His Demonstrable Misrepresentations of My Actual Argument",
+      "src": "Sweet Rationalism · Nathan Sweet · AI-assisted independent commentary",
+      "blurb": "Sweet disputes Dietz’s audit methods and interpretation, arguing that computational models do not establish Levin’s proposed nonphysical causation.",
+      "flag": "About Levin's ideas",
+      "url": "https://sweetrationalism.com/articles/epistemology/joel-dietz-audit-nathan-sweet-bubble-sort-response/"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-11",
+      "type": "Article",
+      "title": "Auditing Michael Levin’s Platonism: 88.1% on the Math, 0% on the Ghosts (77.6++% Overall)",
+      "src": "MetaMeditations · Joel Dietz · AI-assisted independent commentary",
+      "blurb": "Dietz evaluates seven claims associated with Levin’s Ingressing Minds, distinguishing computational and biological models from claims about nonphysical causes.",
+      "flag": "About Levin's ideas",
+      "url": "https://metameditations.substack.com/p/auditing-michael-levins-platonism"
+    }
+  ]
 }
