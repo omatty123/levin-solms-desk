@@ -1,7 +1,17 @@
 {
   "since": "2026-09-01",
-  "last_checked": "2026-11-14T19:29:16Z",
+  "last_checked": "2026-11-14T20:26:32Z",
   "items": [
+    {
+      "who": "levin",
+      "date": "2026-11-12",
+      "type": "Podcast",
+      "len": "70 min",
+      "title": "Criticality of a path through idea space and academia - Michael Levin | ERA Minicon 2026",
+      "src": "Emerging Researchers in Artificial Life · ERA MiniCon 2026 · Recorded August 16, 2026",
+      "blurb": "Levin surveys his lab’s research on bioelectricity and diverse intelligence, alongside the obstacles and choices involved in building an unconventional research career.",
+      "url": "https://www.youtube.com/watch?v=poFvpVF2JyA"
+    },
     {
       "who": "levin",
       "date": "2026-11-09",
