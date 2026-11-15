@@ -1,6 +1,6 @@
 {
   "since": "2026-09-01",
-  "last_checked": "2026-11-15T21:16:24Z",
+  "last_checked": "2026-11-15T21:25:07Z",
   "items": [
     {
       "who": "levin",
@@ -1046,6 +1046,16 @@
       "blurb": "McDaniel connects Levin’s selves and selflets to Whitehead’s process philosophy, exploring memory, first-person experience and possibilities for minds beyond humans.",
       "flag": "About Levin's ideas",
       "url": "https://www.openhorizons.org/the-ever-renewing-now-8203whitehead-and-levin-on-minds-and-lived-experience.html"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-07",
+      "type": "Article",
+      "title": "The fountain of youth will be a software modification",
+      "src": "Front Stage Exit · Brady Dale · Independent commentary",
+      "blurb": "Dale explores Levin and Pio-Lopez’s hypothesis that aging involves lost cellular coordination, distinguishing promising bioelectric models from treatments still requiring experimental validation.",
+      "flag": "About Levin's ideas",
+      "url": "https://www.frontstageexit.com/p/the-fountain-of-youth-will-be-a-software"
     }
   ]
 }
