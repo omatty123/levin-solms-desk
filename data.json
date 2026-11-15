@@ -1,6 +1,6 @@
 {
   "since": "2026-09-01",
-  "last_checked": "2026-11-15T20:02:22Z",
+  "last_checked": "2026-11-15T21:16:24Z",
   "items": [
     {
       "who": "levin",
@@ -1036,6 +1036,16 @@
       "blurb": "Dietz evaluates seven claims associated with Levin’s Ingressing Minds, distinguishing computational and biological models from claims about nonphysical causes.",
       "flag": "About Levin's ideas",
       "url": "https://metameditations.substack.com/p/auditing-michael-levins-platonism"
+    },
+    {
+      "who": "levin",
+      "date": "2026-11-14",
+      "type": "Article",
+      "title": "The Ever-Renewing Now: Whitehead and Levin on Minds and Lived Experience",
+      "src": "Open Horizons · Jay McDaniel · Philosophical commentary",
+      "blurb": "McDaniel connects Levin’s selves and selflets to Whitehead’s process philosophy, exploring memory, first-person experience and possibilities for minds beyond humans.",
+      "flag": "About Levin's ideas",
+      "url": "https://www.openhorizons.org/the-ever-renewing-now-8203whitehead-and-levin-on-minds-and-lived-experience.html"
     }
   ]
 }
